@@ -1,8 +1,8 @@
-title:Spriggys Wishlist v10_3_8Plus
+title:Spriggys Wishlist v10_4_8Plus
 description: This wishlist is created by Spriggy for DIM primarily based off pandapaxxy god rolls.
 //GitHub: https://github.com/scspriggy/Spriggys-Wishlist
-//GitHub Wishlist Maker: https://github.com/scspriggy/SpriggysWishlistMaker
-//Update Notes: Updated new guns according to pandapaxxy's changes, re-ordered by season, added higher rolls lists
+//GitHub Wishlist Maker: https://github.com/scspriggy/SpriggysWishlistMaker/releases
+//Update Notes: Added non random roll ritual weapons
 
 //Key: [Tier]PvE[RollRating]
 //	Tier
@@ -6130,6 +6130,18 @@ dimwishlist:item=3776129137&perks=1996142143,957782887,1275731761#notes:Upvp8 MW
 dimwishlist:item=3776129137&perks=3796465595,2869569095,1275731761#notes:Upve8 MW Reload
 
 
+//Luna's Howl - U
+dimwishlist:item=153979396
+
+
+//Not Forgotten - U
+dimwishlist:item=153979399
+
+
+//Horror Story - U
+dimwishlist:item=3829285960
+
+
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //======================================================================Season 05====================================================================
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -6621,10 +6633,6 @@ dimwishlist:item=3843477312&perks=3433396026,106909392,2779035018,3425386926#not
 dimwishlist:item=3843477312&perks=3433396026,1087426260,2779035018,1015611457#notes:Upve8 MW Reload
 dimwishlist:item=3843477312&perks=3142289711,2779035018,1015611457#notes:Upvp8 MW Range or Handling
 dimwishlist:item=3843477312&perks=1087426260,2779035018,3425386926#notes:Upve8 MW Reload
-
-
-//Breakneck - U
-dimwishlist:item=324382200
 
 
 //Crimil's Dagger - U
@@ -7294,10 +7302,6 @@ dimwishlist:item=2575506895&perks=4090651448,1087426260,1168162263,3038247973#no
 dimwishlist:item=2575506895&perks=4090651448,2420895100,1015611457,3425386926#notes:Upve8 MW Reload
 dimwishlist:item=2575506895&perks=106909392,2846385770,3038247973#notes:Upvp8 MW Handling or Stability
 dimwishlist:item=2575506895&perks=1087426260,1168162263,247725512#notes:Upve8 MW Reload
-
-
-//Loaded Question - U
-dimwishlist:item=580961571
 
 
 //The Mountaintop
@@ -8313,6 +8317,18 @@ dimwishlist:item=3356526253&perks=1300023272,2420895100,4071163871,3425386926#no
 dimwishlist:item=3356526253&perks=4090651448,106909392,4071163871,3425386926#notes:Upve8 MW Reload
 dimwishlist:item=3356526253&perks=4090651448,2420895100,3161816588,3425386926#notes:Upve8 MW Reload
 dimwishlist:item=3356526253&perks=1482024992,1087426260,3161816588,3425386926#notes:Upve8 MW Reload
+
+
+//Breakneck - U
+dimwishlist:item=324382200
+
+
+//Loaded Question - U
+dimwishlist:item=580961571
+
+
+//The Vow - U
+dimwishlist:item=2009106091
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -9484,6 +9500,18 @@ dimwishlist:item=930590127&perks=13792278,2680121939,3300816228,2213355989#notes
 dimwishlist:item=930590127&perks=13792278,2680121939,4071163871,3523296417#notes:Upve8 MW Reload
 dimwishlist:item=930590127&perks=3868766766,280464955,1890422124#notes:Upvp8 MW Range
 dimwishlist:item=930590127&perks=2680121939,3300816228,3523296417#notes:Upve8 MW Reload
+
+
+//Oxygen SR3 - U
+dimwishlist:item=3907337522
+
+
+//The Recluse - U
+dimwishlist:item=3354242550
+
+
+//21% Delirium - U
+dimwishlist:item=1600633250
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -10695,6 +10723,22 @@ dimwishlist:item=569799273&perks=938542991,2349202967,818211479,3913600130#notes
 dimwishlist:item=569799273&perks=938542991,2349202967,1749209109,3016987351#notes:Upve8 MW Impact
 dimwishlist:item=569799273&perks=2349202967,2590710093,354401740#notes:Upvp8 MW Impact
 dimwishlist:item=569799273&perks=2349202967,818211479,3016987351#notes:Upve8 MW Impact
+
+
+//Revoker - U
+dimwishlist:item=654608616
+
+
+//Hush - U
+dimwishlist:item=1584643826
+
+
+//Wendigo GL3 - U
+dimwishlist:item=578459533
+
+
+//Rose - U
+dimwishlist:item=2429822976
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -16076,6 +16120,10 @@ dimwishlist:item=2742838700&perks=1926090095,1087426260,3643424744,3523296417#no
 dimwishlist:item=2742838700&perks=106909392,2846385770,1954620775#notes:Upvp8 MW Handling
 dimwishlist:item=2742838700&perks=106909392,3643424744,3425386926#notes:Upve8 MW Reload or Handling
 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//======================================================================Season 11====================================================================
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
