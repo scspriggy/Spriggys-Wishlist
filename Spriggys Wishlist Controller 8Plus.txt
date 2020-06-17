@@ -2,7 +2,7 @@ title:Spriggys Wishlist Controller v10_4_8Plus
 description: This wishlist is created by Spriggy for DIM primarily based off pandapaxxy god rolls.
 //GitHub: https://github.com/scspriggy/Spriggys-Wishlist
 //GitHub Wishlist Maker: https://github.com/scspriggy/SpriggysWishlistMaker/releases
-//Update Notes: Controller version created.
+//Update Notes: Added Season 11 rolls
 
 //Key: [Tier]PvE[RollRating]
 //	Tier
@@ -16153,6 +16153,1591 @@ dimwishlist:item=2742838700&perks=106909392,3643424744,3425386926#notes:Upve8 MW
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //======================================================================Season 11====================================================================
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+//Berenger's Memory - U
+//=================PvE=================
+//Barrel
+//2.0:981914802:Hard Launch
+//1.5:3798852852:Smart Drift Control
+//1.0:3525010810:Quick Launch
+//Magazine
+//3.0:3301904089:Spike Grenades
+//1.5:2985827016:Alloy Casing
+//Perk 1
+//2.5:2869569095:Field Prep
+//1.5:2284787283:Clown Cartridge
+//1.0:706527188:Quickdraw
+//Perk 2
+//2.5:3523296417:Demolitionist
+//1.5:1683379515:Disruption Break
+//1.0:3300816228:Auto-Loading Holster
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:1478423395:Volatile Launch
+//1.5:1844523823:Confined Launch
+//1.0:1441682018:Linear Compensator
+//Magazine
+//3.0:409831596:Proximity Grenades
+//1.5:3373736292:Sticky Grenades
+//Perk 1
+//2.5:706527188:Quickdraw
+//1.5:4071163871:Threat Detector
+//Perk 2
+//2.5:3523296417:Demolitionist
+//1.5:3511092054:Elemental Capacitor
+//1.0:1683379515:Disruption Break
+//MW Blast Radius
+//=================Wishlist=================
+dimwishlist:item=407621213&perks=1478423395,409831596,706527188,3523296417#notes:Upvp10 MW Blast Radius
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3523296417#notes:Upve10 MW Reload
+dimwishlist:item=407621213&perks=1844523823,409831596,706527188,3523296417#notes:Upvp9.5 MW Blast Radius
+dimwishlist:item=407621213&perks=3798852852,3301904089,2869569095,3523296417#notes:Upve9.5 MW Reload
+dimwishlist:item=407621213&perks=1478423395,409831596,706527188,3511092054#notes:Upvp9 MW Blast Radius
+dimwishlist:item=407621213&perks=1478423395,409831596,4071163871,3523296417#notes:Upvp9 MW Blast Radius
+dimwishlist:item=407621213&perks=1441682018,409831596,706527188,3523296417#notes:Upvp9 MW Blast Radius
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,1683379515#notes:Upve9 MW Reload
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=407621213&perks=1478423395,409831596,706527188,1683379515#notes:Upvp8.5 MW Blast Radius
+dimwishlist:item=407621213&perks=1478423395,3373736292,706527188,3523296417#notes:Upvp8.5 MW Blast Radius
+dimwishlist:item=407621213&perks=1844523823,409831596,706527188,3511092054#notes:Upvp8.5 MW Blast Radius
+dimwishlist:item=407621213&perks=1844523823,409831596,4071163871,3523296417#notes:Upvp8.5 MW Blast Radius
+dimwishlist:item=407621213&perks=981914802,3301904089,706527188,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3300816228#notes:Upve8.5 MW Reload
+dimwishlist:item=407621213&perks=981914802,2985827016,2869569095,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,2869569095,1683379515#notes:Upve8.5 MW Reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,2284787283,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=407621213&perks=1478423395,409831596,4071163871,3511092054#notes:Upvp8 MW Blast Radius
+dimwishlist:item=407621213&perks=1478423395,3301904089,2869569095,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=407621213&perks=1844523823,409831596,706527188,1683379515#notes:Upvp8 MW Blast Radius
+dimwishlist:item=407621213&perks=1844523823,3373736292,706527188,3523296417#notes:Upvp8 MW Blast Radius
+dimwishlist:item=407621213&perks=1844523823,3301904089,2869569095,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=407621213&perks=1441682018,409831596,706527188,3511092054#notes:Upvp8 MW Blast Radius
+dimwishlist:item=407621213&perks=1441682018,409831596,4071163871,3523296417#notes:Upvp8 MW Blast Radius
+dimwishlist:item=407621213&perks=1441682018,3301904089,2869569095,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=407621213&perks=981914802,409831596,706527188,3523296417#notes:Upvp8 MW Blast Radius
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=407621213&perks=3798852852,409831596,706527188,3523296417#notes:Upvp8 MW Blast Radius
+dimwishlist:item=407621213&perks=3798852852,3301904089,706527188,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,2869569095,3300816228#notes:Upve8 MW Reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,2869569095,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=407621213&perks=3525010810,409831596,706527188,3523296417#notes:Upvp8 MW Blast Radius
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=407621213&perks=409831596,706527188,3523296417#notes:Upvp8 MW Blast Radius
+dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417#notes:Upve8 MW Reload
+
+
+//Cold Denial - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.5:1392496348:Polygonal Rifling
+//1.0:1482024992:Smallbore
+//Magazine
+//2.0:1087426260:Appended Mag
+//1.5:3230963543:Flared Magwell
+//1.0:1885400500:Ricochet Rounds
+//Perk 1
+//3.0:2779035018:Feeding Frenzy
+//1.5:2450788523:Killing Wind
+//Perk 2
+//3.0:4082225868:Swashbuckler
+//2.0:2458213969:Multikill Clip
+//1.0:3350417888:Sympathetic Arsenal
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:839105230:Arrowhead Brake
+//1.5:3661387068:Chambered Compensator
+//1.0:1482024992:Smallbore
+//Magazine
+//2.0:1885400500:Ricochet Rounds
+//1.5:1561002382:High-Caliber Rounds
+//1.0:3230963543:Flared Magwell
+//Perk 1
+//3.0:2450788523:Killing Wind
+//2.0:2387244414:Zen Moment
+//1.0:2779035018:Feeding Frenzy
+//Perk 2
+//3.0:3108830275:Unrelenting 
+//2.0:699525795:Eye of the Storm
+//1.0:4082225868:Swashbuckler
+//MW Stability
+//=================Wishlist=================
+dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,3108830275#notes:Upvp10 MW Stability
+dimwishlist:item=1216130969&perks=1840239774,1087426260,2779035018,4082225868#notes:Upve10 MW Reload
+dimwishlist:item=1216130969&perks=839105230,1561002382,2450788523,3108830275#notes:Upvp9.5 MW Stability
+dimwishlist:item=1216130969&perks=3661387068,1885400500,2450788523,3108830275#notes:Upvp9.5 MW Stability
+dimwishlist:item=1216130969&perks=1840239774,3230963543,2779035018,4082225868#notes:Upve9.5 MW Reload
+dimwishlist:item=1216130969&perks=1392496348,1087426260,2779035018,4082225868#notes:Upve9.5 MW Reload
+dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,699525795#notes:Upvp9 MW Stability
+dimwishlist:item=1216130969&perks=839105230,1885400500,2387244414,3108830275#notes:Upvp9 MW Stability
+dimwishlist:item=1216130969&perks=839105230,3230963543,2450788523,3108830275#notes:Upvp9 MW Stability
+dimwishlist:item=1216130969&perks=3661387068,1561002382,2450788523,3108830275#notes:Upvp9 MW Stability
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,3108830275#notes:Upvp9 MW Stability
+dimwishlist:item=1216130969&perks=1482024992,1087426260,2779035018,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=1216130969&perks=1840239774,1885400500,2779035018,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=1216130969&perks=1840239774,1087426260,2779035018,2458213969#notes:Upve9 MW Reload
+dimwishlist:item=1216130969&perks=1392496348,3230963543,2779035018,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=1216130969&perks=839105230,1561002382,2450788523,699525795#notes:Upvp8.5 MW Stability
+dimwishlist:item=1216130969&perks=839105230,1561002382,2387244414,3108830275#notes:Upvp8.5 MW Stability
+dimwishlist:item=1216130969&perks=3661387068,1885400500,2450788523,699525795#notes:Upvp8.5 MW Stability
+dimwishlist:item=1216130969&perks=3661387068,1885400500,2387244414,3108830275#notes:Upvp8.5 MW Stability
+dimwishlist:item=1216130969&perks=3661387068,3230963543,2450788523,3108830275#notes:Upvp8.5 MW Stability
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,3108830275#notes:Upvp8.5 MW Stability
+dimwishlist:item=1216130969&perks=1482024992,3230963543,2779035018,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=1216130969&perks=1840239774,3230963543,2779035018,2458213969#notes:Upve8.5 MW Reload
+dimwishlist:item=1216130969&perks=1840239774,1087426260,2450788523,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=1216130969&perks=1392496348,1885400500,2779035018,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=1216130969&perks=1392496348,1087426260,2779035018,2458213969#notes:Upve8.5 MW Reload
+dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,4082225868#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=839105230,1885400500,2387244414,699525795#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=839105230,1885400500,2779035018,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=839105230,3230963543,2450788523,699525795#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=839105230,3230963543,2387244414,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=839105230,1087426260,2450788523,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=839105230,1087426260,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1216130969&perks=839105230,2450788523,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=3661387068,1561002382,2450788523,699525795#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=3661387068,1561002382,2387244414,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=3661387068,1087426260,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,699525795#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2387244414,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1216130969&perks=1482024992,3230963543,2450788523,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=1482024992,1087426260,2779035018,2458213969#notes:Upve8 MW Reload
+dimwishlist:item=1216130969&perks=1840239774,1885400500,2450788523,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=1840239774,1885400500,2779035018,2458213969#notes:Upve8 MW Reload
+dimwishlist:item=1216130969&perks=1840239774,1561002382,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1216130969&perks=1840239774,3230963543,2450788523,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1216130969&perks=1840239774,1087426260,2779035018,3350417888#notes:Upve8 MW Reload
+dimwishlist:item=1216130969&perks=1840239774,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1216130969&perks=1392496348,1885400500,2450788523,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=1392496348,3230963543,2779035018,2458213969#notes:Upve8 MW Reload
+dimwishlist:item=1216130969&perks=1392496348,1087426260,2450788523,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1216130969&perks=1885400500,2450788523,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=1216130969&perks=1087426260,2779035018,4082225868#notes:Upve8 MW Reload
+
+
+//Death Adder - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.5:1392496348:Polygonal Rifling
+//1.0:1482024992:Smallbore
+//Magazine
+//2.0:1087426260:Appended Mag
+//1.5:106909392:Tactical Mag
+//1.0:3230963543:Flared Magwell
+//Perk 1
+//3.0:2779035018:Feeding Frenzy
+//1.5:1820235745:Subsistence
+//Perk 2
+//3.0:2848615171:Dragonfly
+//2.0:1683379515:Disruption Break
+//1.0:706527188:Quickdraw
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:1482024992:Smallbore
+//1.5:1392496348:Polygonal Rifling
+//1.0:4090651448:Corkscrew Rifling
+//Magazine
+//2.0:3142289711:Accurized Rounds
+//1.5:106909392:Tactical Mag
+//1.0:3177308360:Steady Rounds
+//Perk 1
+//3.0:1359896290:Dynamic Sway Reduction
+//2.0:1866048759:Hip-Fire Grip
+//1.0:2779035018:Feeding Frenzy
+//Perk 2
+//3.0:2846385770:Rangefinder
+//2.0:588594999:Moving Target
+//1.0:699525795:Eye of the Storm
+//MW Stability
+//=================Wishlist=================
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,2846385770#notes:Upvp10 MW Stability
+dimwishlist:item=2742490609&perks=1840239774,1087426260,2779035018,2848615171#notes:Upve10 MW Reload
+dimwishlist:item=2742490609&perks=1482024992,106909392,1359896290,2846385770#notes:Upvp9.5 MW Stability
+dimwishlist:item=2742490609&perks=1392496348,3142289711,1359896290,2846385770#notes:Upvp9.5 MW Stability
+dimwishlist:item=2742490609&perks=1392496348,1087426260,2779035018,2848615171#notes:Upve9.5 MW Reload
+dimwishlist:item=2742490609&perks=1840239774,106909392,2779035018,2848615171#notes:Upve9.5 MW Reload
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,588594999#notes:Upvp9 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1866048759,2846385770#notes:Upvp9 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,3177308360,1359896290,2846385770#notes:Upvp9 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,1087426260,2779035018,2848615171#notes:Upve9 MW Reload
+dimwishlist:item=2742490609&perks=1392496348,106909392,1359896290,2846385770#notes:Upvp9 MW Stability
+dimwishlist:item=2742490609&perks=1392496348,106909392,2779035018,2848615171#notes:Upve9 MW Reload
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,2846385770#notes:Upvp9 MW Stability
+dimwishlist:item=2742490609&perks=1840239774,1087426260,2779035018,1683379515#notes:Upve9 MW Reload
+dimwishlist:item=2742490609&perks=1840239774,3230963543,2779035018,2848615171#notes:Upve9 MW Reload
+dimwishlist:item=2742490609&perks=1482024992,106909392,1359896290,588594999#notes:Upvp8.5 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,106909392,1866048759,2846385770#notes:Upvp8.5 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,106909392,2779035018,2848615171#notes:Upve8.5 MW Reload
+dimwishlist:item=2742490609&perks=1392496348,3142289711,1359896290,588594999#notes:Upvp8.5 MW Stability
+dimwishlist:item=2742490609&perks=1392496348,3142289711,1866048759,2846385770#notes:Upvp8.5 MW Stability
+dimwishlist:item=2742490609&perks=1392496348,3177308360,1359896290,2846385770#notes:Upvp8.5 MW Stability
+dimwishlist:item=2742490609&perks=1392496348,1087426260,2779035018,1683379515#notes:Upve8.5 MW Reload
+dimwishlist:item=2742490609&perks=1392496348,3230963543,2779035018,2848615171#notes:Upve8.5 MW Reload
+dimwishlist:item=2742490609&perks=4090651448,106909392,1359896290,2846385770#notes:Upvp8.5 MW Stability
+dimwishlist:item=2742490609&perks=1840239774,106909392,2779035018,1683379515#notes:Upve8.5 MW Reload
+dimwishlist:item=2742490609&perks=1840239774,1087426260,1820235745,2848615171#notes:Upve8.5 MW Reload
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,699525795#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1866048759,588594999#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,3142289711,2779035018,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,3177308360,1359896290,588594999#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,3177308360,1866048759,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,1087426260,1359896290,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,1087426260,2779035018,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=2742490609&perks=1482024992,3230963543,1359896290,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1482024992,3230963543,2779035018,2848615171#notes:Upve8 MW Reload
+dimwishlist:item=2742490609&perks=1482024992,1359896290,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1392496348,106909392,1359896290,588594999#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1392496348,106909392,1866048759,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1392496348,106909392,2779035018,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=2742490609&perks=1392496348,1087426260,1820235745,2848615171#notes:Upve8 MW Reload
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1359896290,588594999#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=4090651448,3142289711,1866048759,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=4090651448,3177308360,1359896290,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=4090651448,1087426260,2779035018,2848615171#notes:Upve8 MW Reload
+dimwishlist:item=2742490609&perks=1840239774,3142289711,1359896290,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1840239774,3142289711,2779035018,2848615171#notes:Upve8 MW Reload
+dimwishlist:item=2742490609&perks=1840239774,106909392,1820235745,2848615171#notes:Upve8 MW Reload
+dimwishlist:item=2742490609&perks=1840239774,3177308360,2779035018,2848615171#notes:Upve8 MW Reload
+dimwishlist:item=2742490609&perks=1840239774,1087426260,2779035018,706527188#notes:Upve8 MW Reload
+dimwishlist:item=2742490609&perks=1840239774,3230963543,2779035018,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=2742490609&perks=1840239774,2779035018,2848615171#notes:Upve8 MW Reload
+dimwishlist:item=2742490609&perks=3142289711,1359896290,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=2742490609&perks=1087426260,2779035018,2848615171#notes:Upve8 MW Reload
+
+
+//Falling Guillotine - U
+//=================PvE=================
+//Barrel
+//2.5:3666208348:Jagged Edge
+//1.5:2827049491:Honed Edge
+//1.0:938542991:Tempered Edge
+//Magazine
+//1.5:2349202967:Heavy Guard
+//1.0:3625355092:Burst Guard
+//0.5:599007201:Enduring Guard
+//Perk 1
+//3.0:1749209109:Relentless Strikes
+//1.5:2590710093:Tireless Blade
+//Perk 2
+//3.0:3708227201:Surrounded
+//1.5:3913600130:Whirlwind Blade
+//MW Impact
+//=================PvP=================
+//Barrel
+//2.5:3666208348:Jagged Edge
+//1.5:2827049491:Honed Edge
+//1.0:938542991:Tempered Edge
+//Magazine
+//1.5:2349202967:Heavy Guard
+//1.0:3625355092:Burst Guard
+//0.5:599007201:Enduring Guard
+//Perk 1
+//3.0:2590710093:Tireless Blade
+//1.5:1749209109:Relentless Strikes
+//Perk 2
+//3.0:1685431615:En Garde
+//1.5:3016987351:Counterattack
+//MW Impact
+//=================Wishlist=================
+dimwishlist:item=614426548&perks=3666208348,2349202967,2590710093,1685431615#notes:Upvp10 MW Impact
+dimwishlist:item=614426548&perks=3666208348,2349202967,1749209109,3708227201#notes:Upve10 MW Impact
+dimwishlist:item=614426548&perks=3666208348,3625355092,2590710093,1685431615#notes:Upvp9.5 MW Impact
+dimwishlist:item=614426548&perks=3666208348,3625355092,1749209109,3708227201#notes:Upve9.5 MW Impact
+dimwishlist:item=614426548&perks=3666208348,599007201,2590710093,1685431615#notes:Upvp9 MW Impact
+dimwishlist:item=614426548&perks=3666208348,599007201,1749209109,3708227201#notes:Upve9 MW Impact
+dimwishlist:item=614426548&perks=2827049491,2349202967,2590710093,1685431615#notes:Upvp9 MW Impact
+dimwishlist:item=614426548&perks=2827049491,2349202967,1749209109,3708227201#notes:Upve9 MW Impact
+dimwishlist:item=614426548&perks=3666208348,2349202967,2590710093,3016987351#notes:Upvp8.5 MW Impact
+dimwishlist:item=614426548&perks=3666208348,2349202967,2590710093,3708227201#notes:Upve8.5 MW Impact
+dimwishlist:item=614426548&perks=3666208348,2349202967,1749209109,1685431615#notes:Upvp8.5 MW Impact
+dimwishlist:item=614426548&perks=3666208348,2349202967,1749209109,3913600130#notes:Upve8.5 MW Impact
+dimwishlist:item=614426548&perks=3666208348,2590710093,1685431615#notes:Upvp8.5 MW Impact
+dimwishlist:item=614426548&perks=3666208348,1749209109,3708227201#notes:Upve8.5 MW Impact
+dimwishlist:item=614426548&perks=2827049491,3625355092,2590710093,1685431615#notes:Upvp8.5 MW Impact
+dimwishlist:item=614426548&perks=2827049491,3625355092,1749209109,3708227201#notes:Upve8.5 MW Impact
+dimwishlist:item=614426548&perks=938542991,2349202967,2590710093,1685431615#notes:Upvp8.5 MW Impact
+dimwishlist:item=614426548&perks=938542991,2349202967,1749209109,3708227201#notes:Upve8.5 MW Impact
+dimwishlist:item=614426548&perks=3666208348,3625355092,2590710093,3016987351#notes:Upvp8 MW Impact
+dimwishlist:item=614426548&perks=3666208348,3625355092,2590710093,3708227201#notes:Upve8 MW Impact
+dimwishlist:item=614426548&perks=3666208348,3625355092,1749209109,1685431615#notes:Upvp8 MW Impact
+dimwishlist:item=614426548&perks=3666208348,3625355092,1749209109,3913600130#notes:Upve8 MW Impact
+dimwishlist:item=614426548&perks=2827049491,599007201,2590710093,1685431615#notes:Upvp8 MW Impact
+dimwishlist:item=614426548&perks=2827049491,599007201,1749209109,3708227201#notes:Upve8 MW Impact
+dimwishlist:item=614426548&perks=938542991,3625355092,2590710093,1685431615#notes:Upvp8 MW Impact
+dimwishlist:item=614426548&perks=938542991,3625355092,1749209109,3708227201#notes:Upve8 MW Impact
+
+
+//False Promises - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.5:4090651448:Corkscrew Rifling
+//1.0:1392496348:Polygonal Rifling
+//Magazine
+//2.0:1885400500:Ricochet Rounds
+//1.5:1087426260:Appended Mag
+//1.0:2420895100:Extended Mag
+//Perk 1
+//3.0:2779035018:Feeding Frenzy
+//2.0:3643424744:Overflow
+//1.0:2450788523:Killing Wind
+//Perk 2
+//3.0:4082225868:Swashbuckler
+//2.0:3425386926:Rampage
+//1.0:3708227201:Surrounded
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:1482024992:Smallbore
+//1.5:1392496348:Polygonal Rifling
+//1.0:1840239774:Fluted Barrel
+//Magazine
+//2.0:1885400500:Ricochet Rounds
+//1.5:1561002382:High-Caliber Rounds
+//1.0:3230963543:Flared Magwell
+//Perk 1
+//3.0:1359896290:Dynamic Sway Reduction
+//2.0:2450788523:Killing Wind
+//1.0:3643424744:Overflow
+//Perk 2
+//3.0:3108830275:Unrelenting 
+//2.0:2387244414:Zen Moment
+//1.0:699525795:Eye of the Storm
+//MW Stability
+//=================Wishlist=================
+dimwishlist:item=3143732432&perks=1482024992,1885400500,1359896290,3108830275#notes:Upvp10 MW Stability
+dimwishlist:item=3143732432&perks=1840239774,1885400500,2779035018,4082225868#notes:Upve10 MW Reload
+dimwishlist:item=3143732432&perks=1482024992,1561002382,1359896290,3108830275#notes:Upvp9.5 MW Stability
+dimwishlist:item=3143732432&perks=1392496348,1885400500,1359896290,3108830275#notes:Upvp9.5 MW Stability
+dimwishlist:item=3143732432&perks=1840239774,1087426260,2779035018,4082225868#notes:Upve9.5 MW Reload
+dimwishlist:item=3143732432&perks=4090651448,1885400500,2779035018,4082225868#notes:Upve9.5 MW Reload
+dimwishlist:item=3143732432&perks=1482024992,1885400500,1359896290,2387244414#notes:Upvp9 MW Stability
+dimwishlist:item=3143732432&perks=1482024992,1885400500,2450788523,3108830275#notes:Upvp9 MW Stability
+dimwishlist:item=3143732432&perks=1482024992,3230963543,1359896290,3108830275#notes:Upvp9 MW Stability
+dimwishlist:item=3143732432&perks=1392496348,1885400500,2779035018,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=3143732432&perks=1392496348,1561002382,1359896290,3108830275#notes:Upvp9 MW Stability
+dimwishlist:item=3143732432&perks=1840239774,1885400500,1359896290,3108830275#notes:Upvp9 MW Stability
+dimwishlist:item=3143732432&perks=1840239774,1885400500,3643424744,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,1885400500,2779035018,3425386926#notes:Upve9 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,2420895100,2779035018,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=3143732432&perks=4090651448,1087426260,2779035018,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=3143732432&perks=1482024992,1561002382,1359896290,2387244414#notes:Upvp8.5 MW Stability
+dimwishlist:item=3143732432&perks=1482024992,1561002382,2450788523,3108830275#notes:Upvp8.5 MW Stability
+dimwishlist:item=3143732432&perks=1392496348,1885400500,1359896290,2387244414#notes:Upvp8.5 MW Stability
+dimwishlist:item=3143732432&perks=1392496348,1885400500,2450788523,3108830275#notes:Upvp8.5 MW Stability
+dimwishlist:item=3143732432&perks=1392496348,3230963543,1359896290,3108830275#notes:Upvp8.5 MW Stability
+dimwishlist:item=3143732432&perks=1392496348,1087426260,2779035018,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,1561002382,1359896290,3108830275#notes:Upvp8.5 MW Stability
+dimwishlist:item=3143732432&perks=1840239774,1087426260,3643424744,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,1087426260,2779035018,3425386926#notes:Upve8.5 MW Reload
+dimwishlist:item=3143732432&perks=4090651448,1885400500,3643424744,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=3143732432&perks=4090651448,1885400500,2779035018,3425386926#notes:Upve8.5 MW Reload
+dimwishlist:item=3143732432&perks=4090651448,2420895100,2779035018,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=3143732432&perks=1482024992,1885400500,1359896290,699525795#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1482024992,1885400500,2450788523,2387244414#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1482024992,1885400500,3643424744,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1482024992,1885400500,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1482024992,3230963543,1359896290,2387244414#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1482024992,3230963543,2450788523,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1482024992,1087426260,1359896290,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1482024992,2420895100,1359896290,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1482024992,1359896290,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1392496348,1885400500,3643424744,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1392496348,1885400500,2779035018,3425386926#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1392496348,1561002382,1359896290,2387244414#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1392496348,1561002382,2450788523,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1392496348,2420895100,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,1885400500,1359896290,2387244414#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1840239774,1885400500,2450788523,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1840239774,1885400500,2450788523,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,1885400500,3643424744,3425386926#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,1885400500,2779035018,3708227201#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,1561002382,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,3230963543,1359896290,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1840239774,3230963543,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,2420895100,3643424744,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,2420895100,2779035018,3425386926#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1840239774,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=4090651448,1885400500,1359896290,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=4090651448,1087426260,3643424744,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=4090651448,1087426260,2779035018,3425386926#notes:Upve8 MW Reload
+dimwishlist:item=3143732432&perks=1885400500,1359896290,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=3143732432&perks=1885400500,2779035018,4082225868#notes:Upve8 MW Reload
+
+
+//First In, Last Out - U
+//=================PvE=================
+//Barrel
+//2.5:1840239774:Fluted Barrel
+//1.5:839105230:Arrowhead Brake
+//1.0:3250034553:Hammer-Forged Rifling
+//Magazine
+//2.5:791862061:Assault Mag
+//1.5:1087426260:Appended Mag
+//1.0:106909392:Tactical Mag
+//Perk 1
+//2.5:1168162263:Outlaw
+//1.5:3300816228:Auto-Loading Holster
+//Perk 2
+//2.5:3523296417:Demolitionist
+//1.5:1546637391:Vorpal Weapon
+//1.0:3708227201:Surrounded
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.5:4090651448:Corkscrew Rifling
+//1.5:1840239774:Fluted Barrel
+//1.0:1482024992:Smallbore
+//Magazine
+//2.5:791862061:Assault Mag
+//1.5:3142289711:Accurized Rounds
+//Perk 1
+//2.5:3161816588:Slideshot
+//1.5:1168162263:Outlaw
+//1.0:1866048759:Hip-Fire Grip
+//Perk 2
+//2.5:47981717:Opening Shot
+//1.5:1546637391:Vorpal Weapon
+//1.0:3523296417:Demolitionist
+//MW Handling
+//=================Wishlist=================
+dimwishlist:item=3616586446&perks=4090651448,791862061,3161816588,47981717#notes:Upvp10 MW Handling
+dimwishlist:item=3616586446&perks=1840239774,791862061,1168162263,3523296417#notes:Upve10 MW Reload
+dimwishlist:item=3616586446&perks=4090651448,791862061,3161816588,1546637391#notes:Upvp9 MW Handling
+dimwishlist:item=3616586446&perks=4090651448,791862061,1168162263,47981717#notes:Upvp9 MW Handling
+dimwishlist:item=3616586446&perks=4090651448,3142289711,3161816588,47981717#notes:Upvp9 MW Handling
+dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,47981717#notes:Upvp9 MW Handling
+dimwishlist:item=3616586446&perks=1840239774,791862061,1168162263,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=3616586446&perks=1840239774,1087426260,1168162263,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=3616586446&perks=839105230,791862061,1168162263,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=3616586446&perks=4090651448,791862061,3161816588,3523296417#notes:Upvp8.5 MW Handling
+dimwishlist:item=3616586446&perks=4090651448,791862061,1866048759,47981717#notes:Upvp8.5 MW Handling
+dimwishlist:item=3616586446&perks=1840239774,791862061,1168162263,3708227201#notes:Upve8.5 MW Reload
+dimwishlist:item=3616586446&perks=1840239774,106909392,1168162263,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=3616586446&perks=1482024992,791862061,3161816588,47981717#notes:Upvp8.5 MW Handling
+dimwishlist:item=3616586446&perks=3250034553,791862061,1168162263,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=3616586446&perks=4090651448,791862061,1168162263,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=3616586446&perks=4090651448,3142289711,3161816588,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=3616586446&perks=4090651448,3142289711,1168162263,47981717#notes:Upvp8 MW Handling
+dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=3616586446&perks=1840239774,791862061,1168162263,47981717#notes:Upvp8 MW Handling
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=3616586446&perks=1840239774,3142289711,3161816588,47981717#notes:Upvp8 MW Handling
+dimwishlist:item=3616586446&perks=1840239774,1087426260,1168162263,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=3616586446&perks=1840239774,1087426260,3300816228,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=3616586446&perks=839105230,791862061,1168162263,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=3616586446&perks=839105230,791862061,3300816228,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=3616586446&perks=839105230,1087426260,1168162263,3523296417#notes:Upve8 MW Reload
+
+
+//The Fool's Remedy - U
+//=================PvE=================
+//Barrel
+//2.0:445755707:QuickDot SAS
+//1.5:445755706:Control SAS
+//1.0:445755705:ShortSpec SAS
+//Magazine
+//2.0:1885400500:Ricochet Rounds
+//1.5:1087426260:Appended Mag
+//1.0:3230963543:Flared Magwell
+//Perk 1
+//3.0:2779035018:Feeding Frenzy
+//2.0:1820235745:Subsistence
+//1.0:1354429876:Fourth Time's the Charm
+//Perk 2
+//3.0:1015611457:Kill Clip
+//1.5:706527188:Quickdraw
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:445755706:Control SAS
+//1.5:445755707:QuickDot SAS
+//1.0:445755704:Tactic SAS
+//Magazine
+//2.0:1885400500:Ricochet Rounds
+//1.5:1561002382:High-Caliber Rounds
+//1.0:3230963543:Flared Magwell
+//Perk 1
+//3.0:588594999:Moving Target
+//2.0:1866048759:Hip-Fire Grip
+//1.0:972757866:Pulse Monitor
+//Perk 2
+//3.0:2846385770:Rangefinder
+//2.0:706527188:Quickdraw
+//1.0:699525795:Eye of the Storm
+//MW Stability
+//=================Wishlist=================
+dimwishlist:item=65611680&perks=445755706,1885400500,588594999,2846385770#notes:Upvp10 MW Stability
+dimwishlist:item=65611680&perks=445755707,1885400500,2779035018,1015611457#notes:Upve10 MW Reload
+dimwishlist:item=65611680&perks=445755706,1885400500,2779035018,1015611457#notes:Upve9.5 MW Reload
+dimwishlist:item=65611680&perks=445755706,1561002382,588594999,2846385770#notes:Upvp9.5 MW Stability
+dimwishlist:item=65611680&perks=445755707,1885400500,588594999,2846385770#notes:Upvp9.5 MW Stability
+dimwishlist:item=65611680&perks=445755707,1087426260,2779035018,1015611457#notes:Upve9.5 MW Reload
+dimwishlist:item=65611680&perks=445755706,1885400500,588594999,706527188#notes:Upvp9 MW Stability
+dimwishlist:item=65611680&perks=445755706,1885400500,1866048759,2846385770#notes:Upvp9 MW Stability
+dimwishlist:item=65611680&perks=445755706,3230963543,588594999,2846385770#notes:Upvp9 MW Stability
+dimwishlist:item=65611680&perks=445755706,1087426260,2779035018,1015611457#notes:Upve9 MW Reload
+dimwishlist:item=65611680&perks=445755707,1885400500,1820235745,1015611457#notes:Upve9 MW Reload
+dimwishlist:item=65611680&perks=445755707,1561002382,588594999,2846385770#notes:Upvp9 MW Stability
+dimwishlist:item=65611680&perks=445755707,3230963543,2779035018,1015611457#notes:Upve9 MW Reload
+dimwishlist:item=65611680&perks=445755704,1885400500,588594999,2846385770#notes:Upvp9 MW Stability
+dimwishlist:item=65611680&perks=445755705,1885400500,2779035018,1015611457#notes:Upve9 MW Reload
+dimwishlist:item=65611680&perks=445755706,1885400500,1820235745,1015611457#notes:Upve8.5 MW Reload
+dimwishlist:item=65611680&perks=445755706,1561002382,588594999,706527188#notes:Upvp8.5 MW Stability
+dimwishlist:item=65611680&perks=445755706,1561002382,1866048759,2846385770#notes:Upvp8.5 MW Stability
+dimwishlist:item=65611680&perks=445755706,3230963543,2779035018,1015611457#notes:Upve8.5 MW Reload
+dimwishlist:item=65611680&perks=445755707,1885400500,588594999,706527188#notes:Upvp8.5 MW Stability
+dimwishlist:item=65611680&perks=445755707,1885400500,1866048759,2846385770#notes:Upvp8.5 MW Stability
+dimwishlist:item=65611680&perks=445755707,1885400500,2779035018,706527188#notes:Upve8.5 MW Reload
+dimwishlist:item=65611680&perks=445755707,3230963543,588594999,2846385770#notes:Upvp8.5 MW Stability
+dimwishlist:item=65611680&perks=445755707,1087426260,1820235745,1015611457#notes:Upve8.5 MW Reload
+dimwishlist:item=65611680&perks=445755704,1561002382,588594999,2846385770#notes:Upvp8.5 MW Stability
+dimwishlist:item=65611680&perks=445755705,1087426260,2779035018,1015611457#notes:Upve8.5 MW Reload
+dimwishlist:item=65611680&perks=445755706,1885400500,588594999,699525795#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755706,1885400500,1866048759,706527188#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755706,1885400500,972757866,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755706,1885400500,2779035018,706527188#notes:Upve8 MW Reload
+dimwishlist:item=65611680&perks=445755706,3230963543,588594999,706527188#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755706,3230963543,1866048759,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755706,1087426260,588594999,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755706,1087426260,1820235745,1015611457#notes:Upve8 MW Reload
+dimwishlist:item=65611680&perks=445755706,588594999,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755707,1885400500,1354429876,1015611457#notes:Upve8 MW Reload
+dimwishlist:item=65611680&perks=445755707,1561002382,588594999,706527188#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755707,1561002382,1866048759,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755707,1561002382,2779035018,1015611457#notes:Upve8 MW Reload
+dimwishlist:item=65611680&perks=445755707,3230963543,1820235745,1015611457#notes:Upve8 MW Reload
+dimwishlist:item=65611680&perks=445755707,1087426260,2779035018,706527188#notes:Upve8 MW Reload
+dimwishlist:item=65611680&perks=445755707,2779035018,1015611457#notes:Upve8 MW Reload
+dimwishlist:item=65611680&perks=445755704,1885400500,588594999,706527188#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755704,1885400500,1866048759,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755704,1885400500,2779035018,1015611457#notes:Upve8 MW Reload
+dimwishlist:item=65611680&perks=445755704,3230963543,588594999,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755705,1885400500,588594999,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=445755705,1885400500,1820235745,1015611457#notes:Upve8 MW Reload
+dimwishlist:item=65611680&perks=445755705,3230963543,2779035018,1015611457#notes:Upve8 MW Reload
+dimwishlist:item=65611680&perks=1885400500,588594999,2846385770#notes:Upvp8 MW Stability
+dimwishlist:item=65611680&perks=1885400500,2779035018,1015611457#notes:Upve8 MW Reload
+
+
+//The Forward Path - U
+//=================PvE=================
+//Barrel
+//2.0:13792279:CleanShot IS
+//1.5:13792278:HitMark IS
+//1.0:2405638014:Red Dot Micro
+//Magazine
+//2.0:106909392:Tactical Mag
+//1.5:1087426260:Appended Mag
+//1.0:3230963543:Flared Magwell
+//Perk 1
+//3.0:2779035018:Feeding Frenzy
+//1.5:1354429876:Fourth Time's the Charm
+//Perk 2
+//3.0:4082225868:Swashbuckler
+//2.0:2458213969:Multikill Clip
+//1.0:11551321:Iron Grip
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:2405638014:Red Dot Micro
+//1.0:2405638015:Red Dot 2 MOA
+//Magazine
+//2.0:3142289711:Accurized Rounds
+//1.5:3177308360:Steady Rounds
+//1.0:106909392:Tactical Mag
+//Perk 1
+//3.0:1359896290:Dynamic Sway Reduction
+//1.5:2779035018:Feeding Frenzy
+//Perk 2
+//3.0:1890422124:Tap the Trigger
+//2.0:699525795:Eye of the Storm
+//1.0:11551321:Iron Grip
+//MW Handling or Stability
+//=================Wishlist=================
+dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,1890422124#notes:Upvp10 MW Handling or Stability
+dimwishlist:item=1690783811&perks=13792279,106909392,2779035018,4082225868#notes:Upve10 MW Reload
+dimwishlist:item=1690783811&perks=2405638014,3177308360,1359896290,1890422124#notes:Upvp9.5 MW Handling or Stability
+dimwishlist:item=1690783811&perks=13792279,1087426260,2779035018,4082225868#notes:Upve9.5 MW Reload
+dimwishlist:item=1690783811&perks=13792278,106909392,2779035018,4082225868#notes:Upve9.5 MW Reload
+dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,699525795#notes:Upvp9 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638014,106909392,1359896290,1890422124#notes:Upvp9 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638014,106909392,2779035018,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,1890422124#notes:Upvp9 MW Handling or Stability
+dimwishlist:item=1690783811&perks=13792279,106909392,2779035018,2458213969#notes:Upve9 MW Reload
+dimwishlist:item=1690783811&perks=13792279,3230963543,2779035018,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=1690783811&perks=13792278,1087426260,2779035018,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=1690783811&perks=2405638014,3142289711,2779035018,1890422124#notes:Upvp8.5 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638014,3177308360,1359896290,699525795#notes:Upvp8.5 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638014,1087426260,2779035018,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=1690783811&perks=2405638015,3177308360,1359896290,1890422124#notes:Upvp8.5 MW Handling or Stability
+dimwishlist:item=1690783811&perks=13792279,106909392,1354429876,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=1690783811&perks=13792279,1087426260,2779035018,2458213969#notes:Upve8.5 MW Reload
+dimwishlist:item=1690783811&perks=13792278,106909392,2779035018,2458213969#notes:Upve8.5 MW Reload
+dimwishlist:item=1690783811&perks=13792278,3230963543,2779035018,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,11551321#notes:Upvp8 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638014,3177308360,2779035018,1890422124#notes:Upvp8 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638014,106909392,1359896290,699525795#notes:Upvp8 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638014,106909392,2779035018,2458213969#notes:Upve8 MW Reload
+dimwishlist:item=1690783811&perks=2405638014,1087426260,1359896290,1890422124#notes:Upvp8 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638014,3230963543,1359896290,1890422124#notes:Upvp8 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638014,3230963543,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1690783811&perks=2405638014,1359896290,1890422124#notes:Upvp8 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,699525795#notes:Upvp8 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638015,106909392,1359896290,1890422124#notes:Upvp8 MW Handling or Stability
+dimwishlist:item=1690783811&perks=2405638015,106909392,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1690783811&perks=13792279,3142289711,1359896290,1890422124#notes:Upvp8 MW Handling or Stability
+dimwishlist:item=1690783811&perks=13792279,3142289711,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1690783811&perks=13792279,3177308360,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1690783811&perks=13792279,106909392,2779035018,11551321#notes:Upve8 MW Reload
+dimwishlist:item=1690783811&perks=13792279,1087426260,1354429876,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1690783811&perks=13792279,3230963543,2779035018,2458213969#notes:Upve8 MW Reload
+dimwishlist:item=1690783811&perks=13792279,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1690783811&perks=13792278,3142289711,1359896290,1890422124#notes:Upvp8 MW Handling or Stability
+dimwishlist:item=1690783811&perks=13792278,106909392,1354429876,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1690783811&perks=13792278,1087426260,2779035018,2458213969#notes:Upve8 MW Reload
+dimwishlist:item=1690783811&perks=3142289711,1359896290,1890422124#notes:Upvp8 MW Handling or Stability
+dimwishlist:item=1690783811&perks=106909392,2779035018,4082225868#notes:Upve8 MW Reload
+
+
+//Hollow Words - U
+//=================PvE=================
+//Barrel
+//1.5:1840239774:Fluted Barrel
+//1.0:1392496348:Polygonal Rifling
+//0.5:3661387068:Chambered Compensator
+//Magazine
+//2.5:1483536627:Ionized Battery
+//1.5:2680121939:Enhanced Battery
+//1.0:1687452232:Liquid Coils
+//Perk 1
+//3.0:2779035018:Feeding Frenzy
+//2.0:1556840489:Lead from Gold
+//1.0:2450788523:Killing Wind
+//Perk 2
+//3.0:1546637391:Vorpal Weapon
+//2.0:1683379515:Disruption Break
+//1.0:3708227201:Surrounded
+//MW Reload
+//=================PvP=================
+//Barrel
+//1.5:3661387068:Chambered Compensator
+//1.0:1482024992:Smallbore
+//0.5:1392496348:Polygonal Rifling
+//Magazine
+//2.5:3868766766:Particle Repeater
+//1.5:2969185026:Projection Fuse
+//Perk 1
+//3.0:2039302152:Slideways
+//2.0:706527188:Quickdraw
+//1.0:2450788523:Killing Wind
+//Perk 2
+//3.0:1546637391:Vorpal Weapon
+//2.0:1683379515:Disruption Break
+//1.0:3108830275:Unrelenting 
+//MW Stability
+//=================Wishlist=================
+dimwishlist:item=607191995&perks=3661387068,3868766766,2039302152,1546637391#notes:Upvp10 MW Stability
+dimwishlist:item=607191995&perks=1840239774,1483536627,2779035018,1546637391#notes:Upve10 MW Reload
+dimwishlist:item=607191995&perks=1482024992,3868766766,2039302152,1546637391#notes:Upvp9.5 MW Stability
+dimwishlist:item=607191995&perks=1392496348,1483536627,2779035018,1546637391#notes:Upve9.5 MW Reload
+dimwishlist:item=607191995&perks=3661387068,3868766766,2039302152,1683379515#notes:Upvp9 MW Stability
+dimwishlist:item=607191995&perks=3661387068,3868766766,706527188,1546637391#notes:Upvp9 MW Stability
+dimwishlist:item=607191995&perks=3661387068,2969185026,2039302152,1546637391#notes:Upvp9 MW Stability
+dimwishlist:item=607191995&perks=3661387068,1483536627,2779035018,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=607191995&perks=1392496348,3868766766,2039302152,1546637391#notes:Upvp9 MW Stability
+dimwishlist:item=607191995&perks=1840239774,1483536627,2779035018,1683379515#notes:Upve9 MW Reload
+dimwishlist:item=607191995&perks=1840239774,1483536627,1556840489,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=607191995&perks=1840239774,2680121939,2779035018,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=607191995&perks=1482024992,3868766766,2039302152,1683379515#notes:Upvp8.5 MW Stability
+dimwishlist:item=607191995&perks=1482024992,3868766766,706527188,1546637391#notes:Upvp8.5 MW Stability
+dimwishlist:item=607191995&perks=1482024992,2969185026,2039302152,1546637391#notes:Upvp8.5 MW Stability
+dimwishlist:item=607191995&perks=1482024992,1483536627,2779035018,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=607191995&perks=1392496348,1483536627,2779035018,1683379515#notes:Upve8.5 MW Reload
+dimwishlist:item=607191995&perks=1392496348,1483536627,1556840489,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=607191995&perks=1392496348,2680121939,2779035018,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=607191995&perks=1840239774,3868766766,2039302152,1546637391#notes:Upvp8.5 MW Stability
+dimwishlist:item=607191995&perks=1840239774,1687452232,2779035018,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=607191995&perks=3868766766,2039302152,1546637391#notes:Upvp8.5 MW Stability
+dimwishlist:item=607191995&perks=1483536627,2779035018,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=607191995&perks=3661387068,3868766766,2039302152,3108830275#notes:Upvp8 MW Stability
+dimwishlist:item=607191995&perks=3661387068,3868766766,706527188,1683379515#notes:Upvp8 MW Stability
+dimwishlist:item=607191995&perks=3661387068,3868766766,2450788523,1546637391#notes:Upvp8 MW Stability
+dimwishlist:item=607191995&perks=3661387068,2969185026,2039302152,1683379515#notes:Upvp8 MW Stability
+dimwishlist:item=607191995&perks=3661387068,2969185026,706527188,1546637391#notes:Upvp8 MW Stability
+dimwishlist:item=607191995&perks=3661387068,1483536627,2779035018,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=607191995&perks=3661387068,1483536627,1556840489,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=607191995&perks=3661387068,2680121939,2779035018,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=607191995&perks=1392496348,3868766766,2039302152,1683379515#notes:Upvp8 MW Stability
+dimwishlist:item=607191995&perks=1392496348,3868766766,706527188,1546637391#notes:Upvp8 MW Stability
+dimwishlist:item=607191995&perks=1392496348,2969185026,2039302152,1546637391#notes:Upvp8 MW Stability
+dimwishlist:item=607191995&perks=1392496348,1687452232,2779035018,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=607191995&perks=1840239774,1483536627,2450788523,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=607191995&perks=1840239774,1483536627,2779035018,3708227201#notes:Upve8 MW Reload
+dimwishlist:item=607191995&perks=1840239774,1483536627,1556840489,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=607191995&perks=1840239774,2680121939,2779035018,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=607191995&perks=1840239774,2680121939,1556840489,1546637391#notes:Upve8 MW Reload
+
+
+//Hoosegow - U
+//=================PvE=================
+//Barrel
+//2.5:1441682018:Linear Compensator
+//1.5:3798852852:Smart Drift Control
+//1.0:3525010810:Quick Launch
+//Magazine
+//2.5:3796465595:Impact Casing
+//1.5:2985827016:Alloy Casing
+//Perk 1
+//2.5:2869569095:Field Prep
+//1.5:3300816228:Auto-Loading Holster
+//Perk 2
+//2.5:3523296417:Demolitionist
+//1.5:1275731761:Cluster Bomb
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.5:1478423395:Volatile Launch
+//1.5:1844523823:Confined Launch
+//1.0:1441682018:Linear Compensator
+//Magazine
+//2.5:3796465595:Impact Casing
+//1.5:1996142143:Black Powder
+//Perk 1
+//2.5:3977735242:Tracking Module
+//Perk 2
+//2.5:1275731761:Cluster Bomb
+//1.5:3523296417:Demolitionist
+//MW Blast Radius
+//=================Wishlist=================
+dimwishlist:item=3669616453&perks=1478423395,3796465595,3977735242,1275731761#notes:Upvp10 MW Blast Radius
+dimwishlist:item=3669616453&perks=1441682018,3796465595,2869569095,3523296417#notes:Upve10 MW Reload
+dimwishlist:item=3669616453&perks=1478423395,3796465595,3977735242,3523296417#notes:Upvp9 MW Blast Radius
+dimwishlist:item=3669616453&perks=1478423395,1996142143,3977735242,1275731761#notes:Upvp9 MW Blast Radius
+dimwishlist:item=3669616453&perks=1844523823,3796465595,3977735242,1275731761#notes:Upvp9 MW Blast Radius
+dimwishlist:item=3669616453&perks=1441682018,3796465595,2869569095,1275731761#notes:Upve9 MW Reload
+dimwishlist:item=3669616453&perks=1441682018,3796465595,3300816228,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=3669616453&perks=1441682018,2985827016,2869569095,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=3669616453&perks=3798852852,3796465595,2869569095,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=3669616453&perks=1441682018,3796465595,3977735242,1275731761#notes:Upvp8.5 MW Blast Radius
+dimwishlist:item=3669616453&perks=3525010810,3796465595,2869569095,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=3669616453&perks=1478423395,1996142143,3977735242,3523296417#notes:Upvp8 MW Blast Radius
+dimwishlist:item=3669616453&perks=1844523823,3796465595,3977735242,3523296417#notes:Upvp8 MW Blast Radius
+dimwishlist:item=3669616453&perks=1844523823,1996142143,3977735242,1275731761#notes:Upvp8 MW Blast Radius
+dimwishlist:item=3669616453&perks=1441682018,3796465595,3300816228,1275731761#notes:Upve8 MW Reload
+dimwishlist:item=3669616453&perks=1441682018,2985827016,2869569095,1275731761#notes:Upve8 MW Reload
+dimwishlist:item=3669616453&perks=1441682018,2985827016,3300816228,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=3669616453&perks=3798852852,3796465595,2869569095,1275731761#notes:Upve8 MW Reload
+dimwishlist:item=3669616453&perks=3798852852,3796465595,3300816228,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=3669616453&perks=3798852852,2985827016,2869569095,3523296417#notes:Upve8 MW Reload
+
+
+//IKELOS_HC_v1.0.2 - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.5:4090651448:Corkscrew Rifling
+//1.0:1482024992:Smallbore
+//Magazine
+//2.0:1087426260:Appended Mag
+//1.5:106909392:Tactical Mag
+//1.0:2420895100:Extended Mag
+//Perk 1
+//3.0:1820235745:Subsistence
+//1.5:3400784728:Triple Tap
+//Perk 2
+//3.0:1546637391:Vorpal Weapon
+//1.5:3425386926:Rampage
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.5:1482024992:Smallbore
+//1.0:1392496348:Polygonal Rifling
+//Magazine
+//2.0:3177308360:Steady Rounds
+//1.5:3142289711:Accurized Rounds
+//1.0:106909392:Tactical Mag
+//Perk 1
+//3.0:4071163871:Threat Detector
+//1.5:2039302152:Slideways
+//Perk 2
+//3.0:1546637391:Vorpal Weapon
+//2.0:699525795:Eye of the Storm
+//1.0:1683379515:Disruption Break
+//MW Handling
+//=================Wishlist=================
+dimwishlist:item=1200824700&perks=1840239774,3177308360,4071163871,1546637391#notes:Upvp10 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,1087426260,1820235745,1546637391#notes:Upve10 MW Reload
+dimwishlist:item=1200824700&perks=1840239774,3142289711,4071163871,1546637391#notes:Upvp9.5 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,106909392,1820235745,1546637391#notes:Upve9.5 MW Reload
+dimwishlist:item=1200824700&perks=1482024992,3177308360,4071163871,1546637391#notes:Upvp9.5 MW Handling
+dimwishlist:item=1200824700&perks=4090651448,1087426260,1820235745,1546637391#notes:Upve9.5 MW Reload
+dimwishlist:item=1200824700&perks=1840239774,3177308360,4071163871,699525795#notes:Upvp9 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,106909392,4071163871,1546637391#notes:Upvp9 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,2420895100,1820235745,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=1200824700&perks=1482024992,3142289711,4071163871,1546637391#notes:Upvp9 MW Handling
+dimwishlist:item=1200824700&perks=1482024992,1087426260,1820235745,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=1200824700&perks=1392496348,3177308360,4071163871,1546637391#notes:Upvp9 MW Handling
+dimwishlist:item=1200824700&perks=4090651448,106909392,1820235745,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=1200824700&perks=1840239774,3177308360,2039302152,1546637391#notes:Upvp8.5 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,3142289711,4071163871,699525795#notes:Upvp8.5 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,1087426260,1820235745,3425386926#notes:Upve8.5 MW Reload
+dimwishlist:item=1200824700&perks=1840239774,1087426260,3400784728,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=1200824700&perks=1482024992,3177308360,4071163871,699525795#notes:Upvp8.5 MW Handling
+dimwishlist:item=1200824700&perks=1482024992,106909392,4071163871,1546637391#notes:Upvp8.5 MW Handling
+dimwishlist:item=1200824700&perks=1482024992,106909392,1820235745,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=1200824700&perks=1392496348,3142289711,4071163871,1546637391#notes:Upvp8.5 MW Handling
+dimwishlist:item=1200824700&perks=4090651448,2420895100,1820235745,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=1200824700&perks=1840239774,3177308360,4071163871,1683379515#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,3177308360,1820235745,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=1200824700&perks=1840239774,3142289711,2039302152,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,3142289711,1820235745,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=1200824700&perks=1840239774,106909392,4071163871,699525795#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,106909392,1820235745,3425386926#notes:Upve8 MW Reload
+dimwishlist:item=1200824700&perks=1840239774,106909392,3400784728,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=1200824700&perks=1840239774,1087426260,4071163871,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,2420895100,4071163871,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,4071163871,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=1840239774,1820235745,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=1200824700&perks=1482024992,3177308360,2039302152,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=1482024992,3142289711,4071163871,699525795#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=1482024992,2420895100,1820235745,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=1200824700&perks=1392496348,3177308360,4071163871,699525795#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=1392496348,106909392,4071163871,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=1392496348,1087426260,1820235745,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=1200824700&perks=4090651448,3177308360,4071163871,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=4090651448,1087426260,1820235745,3425386926#notes:Upve8 MW Reload
+dimwishlist:item=1200824700&perks=4090651448,1087426260,3400784728,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=1200824700&perks=3177308360,4071163871,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=1200824700&perks=1087426260,1820235745,1546637391#notes:Upve8 MW Reload
+
+
+//IKELOS_SG_v1.0.2 - U
+//=================PvE=================
+//Barrel
+//2.5:1840239774:Fluted Barrel
+//1.5:1482024992:Smallbore
+//1.0:3250034553:Hammer-Forged Rifling
+//Magazine
+//2.5:106909392:Tactical Mag
+//1.5:1087426260:Appended Mag
+//1.0:679225683:Light Mag
+//Perk 1
+//5.0:2779035018:Feeding Frenzy
+//3.0:1556840489:Lead from Gold
+//1.0:4071163871:Threat Detector
+//Perk 2
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:202670084:Full Bore
+//1.5:3250034553:Hammer-Forged Rifling
+//1.0:1482024992:Smallbore
+//Magazine
+//2.0:3142289711:Accurized Rounds
+//1.0:679225683:Light Mag
+//Perk 1
+//3.0:280464955:Firmly Planted
+//1.5:588594999:Moving Target
+//1.0:2779035018:Feeding Frenzy
+//Perk 2
+//3.0:3511092054:Elemental Capacitor
+//1.5:1546637391:Vorpal Weapon
+//MW Handling
+//=================Wishlist=================
+dimwishlist:item=1096206669&perks=202670084,3142289711,280464955,3511092054#notes:Upvp10 MW Handling
+dimwishlist:item=1096206669&perks=1840239774,106909392,2779035018,3511092054#notes:Upve10 MW Reload
+dimwishlist:item=1096206669&perks=1840239774,106909392,2779035018,1546637391#notes:Upve10 MW Reload
+dimwishlist:item=1096206669&perks=1840239774,106909392,2779035018#notes:Upve10 MW Reload
+dimwishlist:item=1096206669&perks=3250034553,3142289711,280464955,3511092054#notes:Upvp9.5 MW Handling
+dimwishlist:item=1096206669&perks=202670084,679225683,280464955,3511092054#notes:Upvp9 MW Handling
+dimwishlist:item=1096206669&perks=1482024992,3142289711,280464955,3511092054#notes:Upvp9 MW Handling
+dimwishlist:item=1096206669&perks=1482024992,106909392,2779035018,3511092054#notes:Upve9 MW Reload
+dimwishlist:item=1096206669&perks=1482024992,106909392,2779035018,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=1096206669&perks=1482024992,106909392,2779035018#notes:Upve9 MW Reload
+dimwishlist:item=1096206669&perks=1840239774,1087426260,2779035018,3511092054#notes:Upve9 MW Reload
+dimwishlist:item=1096206669&perks=1840239774,1087426260,2779035018,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=1096206669&perks=1840239774,1087426260,2779035018#notes:Upve9 MW Reload
+dimwishlist:item=1096206669&perks=202670084,3142289711,280464955,1546637391#notes:Upvp8.5 MW Handling
+dimwishlist:item=1096206669&perks=202670084,3142289711,588594999,3511092054#notes:Upvp8.5 MW Handling
+dimwishlist:item=1096206669&perks=3250034553,679225683,280464955,3511092054#notes:Upvp8.5 MW Handling
+dimwishlist:item=1096206669&perks=3250034553,106909392,2779035018,3511092054#notes:Upve8.5 MW Reload
+dimwishlist:item=1096206669&perks=3250034553,106909392,2779035018,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=1096206669&perks=3250034553,106909392,2779035018#notes:Upve8.5 MW Reload
+dimwishlist:item=1096206669&perks=1840239774,679225683,2779035018,3511092054#notes:Upve8.5 MW Reload
+dimwishlist:item=1096206669&perks=1840239774,679225683,2779035018,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=1096206669&perks=1840239774,679225683,2779035018#notes:Upve8.5 MW Reload
+dimwishlist:item=1096206669&perks=202670084,3142289711,2779035018,3511092054#notes:Upvp8 MW Handling
+dimwishlist:item=1096206669&perks=202670084,106909392,280464955,3511092054#notes:Upvp8 MW Handling
+dimwishlist:item=1096206669&perks=202670084,1087426260,280464955,3511092054#notes:Upvp8 MW Handling
+dimwishlist:item=1096206669&perks=202670084,280464955,3511092054#notes:Upvp8 MW Handling
+dimwishlist:item=1096206669&perks=3250034553,3142289711,280464955,1546637391#notes:Upvp8 MW Handling
+dimwishlist:item=1096206669&perks=3250034553,3142289711,588594999,3511092054#notes:Upvp8 MW Handling
+dimwishlist:item=1096206669&perks=1482024992,679225683,280464955,3511092054#notes:Upvp8 MW Handling
+dimwishlist:item=1096206669&perks=1482024992,1087426260,2779035018,3511092054#notes:Upve8 MW Reload
+dimwishlist:item=1096206669&perks=1482024992,1087426260,2779035018,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=1096206669&perks=1482024992,1087426260,2779035018#notes:Upve8 MW Reload
+dimwishlist:item=1096206669&perks=1840239774,3142289711,280464955,3511092054#notes:Upvp8 MW Handling
+dimwishlist:item=1096206669&perks=1840239774,106909392,1556840489,3511092054#notes:Upve8 MW Reload
+dimwishlist:item=1096206669&perks=1840239774,106909392,1556840489,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=1096206669&perks=1840239774,106909392,1556840489#notes:Upve8 MW Reload
+dimwishlist:item=1096206669&perks=3142289711,280464955,3511092054#notes:Upvp8 MW Handling
+
+
+//IKELOS_SMG_v1.0.2 - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.5:1392496348:Polygonal Rifling
+//1.0:1482024992:Smallbore
+//Magazine
+//2.0:1087426260:Appended Mag
+//1.5:106909392:Tactical Mag
+//1.0:3230963543:Flared Magwell
+//Perk 1
+//3.0:1820235745:Subsistence
+//1.5:1631667848:Grave Robber
+//Perk 2
+//3.0:3523296417:Demolitionist
+//2.0:1546637391:Vorpal Weapon
+//1.0:3708227201:Surrounded
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:3661387068:Chambered Compensator
+//1.5:1482024992:Smallbore
+//1.0:1392496348:Polygonal Rifling
+//Magazine
+//2.0:1140096971:Seraph Rounds
+//1.5:3142289711:Accurized Rounds
+//1.0:3177308360:Steady Rounds
+//Perk 1
+//3.0:1359896290:Dynamic Sway Reduction
+//Perk 2
+//3.0:1890422124:Tap the Trigger
+//2.0:1546637391:Vorpal Weapon
+//1.0:3523296417:Demolitionist
+//MW Stability
+//=================Wishlist=================
+dimwishlist:item=2222560548&perks=3661387068,1140096971,1359896290,1890422124#notes:Upvp10 MW Stability
+dimwishlist:item=2222560548&perks=1840239774,1087426260,1820235745,3523296417#notes:Upve10 MW Reload
+dimwishlist:item=2222560548&perks=3661387068,3142289711,1359896290,1890422124#notes:Upvp9.5 MW Stability
+dimwishlist:item=2222560548&perks=1482024992,1140096971,1359896290,1890422124#notes:Upvp9.5 MW Stability
+dimwishlist:item=2222560548&perks=1392496348,1087426260,1820235745,3523296417#notes:Upve9.5 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,106909392,1820235745,3523296417#notes:Upve9.5 MW Reload
+dimwishlist:item=2222560548&perks=3661387068,1140096971,1359896290,1546637391#notes:Upvp9 MW Stability
+dimwishlist:item=2222560548&perks=3661387068,3177308360,1359896290,1890422124#notes:Upvp9 MW Stability
+dimwishlist:item=2222560548&perks=1482024992,3142289711,1359896290,1890422124#notes:Upvp9 MW Stability
+dimwishlist:item=2222560548&perks=1482024992,1087426260,1820235745,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=2222560548&perks=1392496348,1140096971,1359896290,1890422124#notes:Upvp9 MW Stability
+dimwishlist:item=2222560548&perks=1392496348,106909392,1820235745,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,1087426260,1820235745,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,3230963543,1820235745,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=2222560548&perks=3661387068,3142289711,1359896290,1546637391#notes:Upvp8.5 MW Stability
+dimwishlist:item=2222560548&perks=1482024992,1140096971,1359896290,1546637391#notes:Upvp8.5 MW Stability
+dimwishlist:item=2222560548&perks=1482024992,3177308360,1359896290,1890422124#notes:Upvp8.5 MW Stability
+dimwishlist:item=2222560548&perks=1482024992,106909392,1820235745,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=2222560548&perks=1392496348,3142289711,1359896290,1890422124#notes:Upvp8.5 MW Stability
+dimwishlist:item=2222560548&perks=1392496348,1087426260,1820235745,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=2222560548&perks=1392496348,3230963543,1820235745,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,1087426260,1631667848,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,106909392,1820235745,1546637391#notes:Upve8.5 MW Reload
+dimwishlist:item=2222560548&perks=3661387068,1140096971,1359896290,3523296417#notes:Upvp8 MW Stability
+dimwishlist:item=2222560548&perks=3661387068,3177308360,1359896290,1546637391#notes:Upvp8 MW Stability
+dimwishlist:item=2222560548&perks=3661387068,1087426260,1359896290,1890422124#notes:Upvp8 MW Stability
+dimwishlist:item=2222560548&perks=3661387068,1087426260,1820235745,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=3661387068,106909392,1359896290,1890422124#notes:Upvp8 MW Stability
+dimwishlist:item=2222560548&perks=3661387068,3230963543,1359896290,1890422124#notes:Upvp8 MW Stability
+dimwishlist:item=2222560548&perks=3661387068,1359896290,1890422124#notes:Upvp8 MW Stability
+dimwishlist:item=2222560548&perks=1482024992,3142289711,1359896290,1546637391#notes:Upvp8 MW Stability
+dimwishlist:item=2222560548&perks=1482024992,1087426260,1820235745,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=1482024992,3230963543,1820235745,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=1392496348,1140096971,1359896290,1546637391#notes:Upvp8 MW Stability
+dimwishlist:item=2222560548&perks=1392496348,3177308360,1359896290,1890422124#notes:Upvp8 MW Stability
+dimwishlist:item=2222560548&perks=1392496348,1087426260,1631667848,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=1392496348,106909392,1820235745,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,1140096971,1359896290,1890422124#notes:Upvp8 MW Stability
+dimwishlist:item=2222560548&perks=1840239774,1140096971,1820235745,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,3142289711,1820235745,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,3177308360,1820235745,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,1087426260,1820235745,3708227201#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,106909392,1631667848,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,3230963543,1820235745,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=1840239774,1820235745,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124#notes:Upvp8 MW Stability
+dimwishlist:item=2222560548&perks=1087426260,1820235745,3523296417#notes:Upve8 MW Reload
+
+
+//IKELOS_SR_v1.0.2 - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.5:4090651448:Corkscrew Rifling
+//1.0:1392496348:Polygonal Rifling
+//Magazine
+//2.0:1087426260:Appended Mag
+//1.5:2420895100:Extended Mag
+//1.0:106909392:Tactical Mag
+//Perk 1
+//3.0:1354429876:Fourth Time's the Charm
+//2.0:3400784728:Triple Tap
+//1.0:2779035018:Feeding Frenzy
+//Perk 2
+//3.0:2213355989:High-Impact Reserves
+//2.0:2551157718:Box Breathing
+//1.0:1683379515:Disruption Break
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:3250034553:Hammer-Forged Rifling
+//1.5:202670084:Full Bore
+//1.0:1482024992:Smallbore
+//Magazine
+//2.0:1140096971:Seraph Rounds
+//1.5:3142289711:Accurized Rounds
+//1.0:106909392:Tactical Mag
+//Perk 1
+//3.0:588594999:Moving Target
+//1.5:2866798147:No Distractions
+//Perk 2
+//3.0:706527188:Quickdraw
+//1.5:2551157718:Box Breathing
+//MW Range
+//=================Wishlist=================
+dimwishlist:item=1253087083&perks=3250034553,1140096971,588594999,706527188#notes:Upvp10 MW Range
+dimwishlist:item=1253087083&perks=1840239774,1087426260,1354429876,2213355989#notes:Upve10 MW Reload
+dimwishlist:item=1253087083&perks=3250034553,3142289711,588594999,706527188#notes:Upvp9.5 MW Range
+dimwishlist:item=1253087083&perks=202670084,1140096971,588594999,706527188#notes:Upvp9.5 MW Range
+dimwishlist:item=1253087083&perks=1840239774,2420895100,1354429876,2213355989#notes:Upve9.5 MW Reload
+dimwishlist:item=1253087083&perks=4090651448,1087426260,1354429876,2213355989#notes:Upve9.5 MW Reload
+dimwishlist:item=1253087083&perks=3250034553,106909392,588594999,706527188#notes:Upvp9 MW Range
+dimwishlist:item=1253087083&perks=202670084,3142289711,588594999,706527188#notes:Upvp9 MW Range
+dimwishlist:item=1253087083&perks=1482024992,1140096971,588594999,706527188#notes:Upvp9 MW Range
+dimwishlist:item=1253087083&perks=1840239774,106909392,1354429876,2213355989#notes:Upve9 MW Reload
+dimwishlist:item=1253087083&perks=1840239774,1087426260,1354429876,2551157718#notes:Upve9 MW Reload
+dimwishlist:item=1253087083&perks=1840239774,1087426260,3400784728,2213355989#notes:Upve9 MW Reload
+dimwishlist:item=1253087083&perks=4090651448,2420895100,1354429876,2213355989#notes:Upve9 MW Reload
+dimwishlist:item=1253087083&perks=1392496348,1087426260,1354429876,2213355989#notes:Upve9 MW Reload
+dimwishlist:item=1253087083&perks=3250034553,1140096971,588594999,2551157718#notes:Upvp8.5 MW Range
+dimwishlist:item=1253087083&perks=3250034553,1140096971,2866798147,706527188#notes:Upvp8.5 MW Range
+dimwishlist:item=1253087083&perks=202670084,106909392,588594999,706527188#notes:Upvp8.5 MW Range
+dimwishlist:item=1253087083&perks=1482024992,3142289711,588594999,706527188#notes:Upvp8.5 MW Range
+dimwishlist:item=1253087083&perks=1840239774,2420895100,1354429876,2551157718#notes:Upve8.5 MW Reload
+dimwishlist:item=1253087083&perks=1840239774,2420895100,3400784728,2213355989#notes:Upve8.5 MW Reload
+dimwishlist:item=1253087083&perks=4090651448,106909392,1354429876,2213355989#notes:Upve8.5 MW Reload
+dimwishlist:item=1253087083&perks=4090651448,1087426260,1354429876,2551157718#notes:Upve8.5 MW Reload
+dimwishlist:item=1253087083&perks=4090651448,1087426260,3400784728,2213355989#notes:Upve8.5 MW Reload
+dimwishlist:item=1253087083&perks=1392496348,2420895100,1354429876,2213355989#notes:Upve8.5 MW Reload
+dimwishlist:item=1253087083&perks=3250034553,3142289711,588594999,2551157718#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=3250034553,3142289711,2866798147,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=3250034553,1087426260,588594999,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=3250034553,1087426260,1354429876,2213355989#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=3250034553,2420895100,588594999,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=3250034553,588594999,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=202670084,1140096971,588594999,2551157718#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=202670084,1140096971,2866798147,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=202670084,1087426260,1354429876,2213355989#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1482024992,106909392,588594999,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=1482024992,1087426260,1354429876,2213355989#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1840239774,1140096971,588594999,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=1840239774,1140096971,1354429876,2213355989#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1840239774,3142289711,1354429876,2213355989#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1840239774,106909392,1354429876,2551157718#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1840239774,106909392,3400784728,2213355989#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1840239774,1087426260,1354429876,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1840239774,1087426260,3400784728,2551157718#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1840239774,1087426260,2779035018,2213355989#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1840239774,1354429876,2213355989#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=4090651448,1140096971,588594999,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=4090651448,2420895100,1354429876,2551157718#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=4090651448,2420895100,3400784728,2213355989#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1392496348,1140096971,588594999,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=1392496348,106909392,1354429876,2213355989#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1392496348,1087426260,1354429876,2551157718#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1392496348,1087426260,3400784728,2213355989#notes:Upve8 MW Reload
+dimwishlist:item=1253087083&perks=1140096971,588594999,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1253087083&perks=1087426260,1354429876,2213355989#notes:Upve8 MW Reload
+
+
+//Nature of the Beast - U
+//=================PvE=================
+//Barrel
+//2.0:1926090094:FastDraw HCS
+//1.5:1926090095:SteadyHand HCS
+//1.0:1926090092:TrueSight HCS
+//Magazine
+//2.0:1087426260:Appended Mag
+//1.5:1431678320:Alloy Mag
+//1.0:2420895100:Extended Mag
+//Perk 1
+//3.0:706527188:Quickdraw
+//1.5:1820235745:Subsistence
+//Perk 2
+//3.0:3523296417:Demolitionist
+//2.0:2848615171:Dragonfly
+//1.0:1546637391:Vorpal Weapon
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:1926090095:SteadyHand HCS
+//1.5:1926090094:FastDraw HCS
+//1.0:1926090093:HitMark HCS
+//Magazine
+//2.0:3142289711:Accurized Rounds
+//1.5:3230963543:Flared Magwell
+//1.0:3177308360:Steady Rounds
+//Perk 1
+//3.0:706527188:Quickdraw
+//1.5:957782887:Snapshot Sights
+//Perk 2
+//3.0:2846385770:Rangefinder
+//2.0:1546637391:Vorpal Weapon
+//1.0:3523296417:Demolitionist
+//MW Range
+//=================Wishlist=================
+dimwishlist:item=1835747805&perks=1926090095,3142289711,706527188,2846385770#notes:Upvp10 MW Range
+dimwishlist:item=1835747805&perks=1926090094,1087426260,706527188,3523296417#notes:Upve10 MW Reload
+dimwishlist:item=1835747805&perks=1926090095,3230963543,706527188,2846385770#notes:Upvp9.5 MW Range
+dimwishlist:item=1835747805&perks=1926090095,1087426260,706527188,3523296417#notes:Upve9.5 MW Reload
+dimwishlist:item=1835747805&perks=1926090094,3142289711,706527188,2846385770#notes:Upvp9.5 MW Range
+dimwishlist:item=1835747805&perks=1926090094,1431678320,706527188,3523296417#notes:Upve9.5 MW Reload
+dimwishlist:item=1835747805&perks=1926090095,3142289711,706527188,1546637391#notes:Upvp9 MW Range
+dimwishlist:item=1835747805&perks=1926090095,3177308360,706527188,2846385770#notes:Upvp9 MW Range
+dimwishlist:item=1835747805&perks=1926090095,1431678320,706527188,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=1835747805&perks=1926090094,3230963543,706527188,2846385770#notes:Upvp9 MW Range
+dimwishlist:item=1835747805&perks=1926090094,1087426260,706527188,2848615171#notes:Upve9 MW Reload
+dimwishlist:item=1835747805&perks=1926090094,2420895100,706527188,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=1835747805&perks=1926090093,3142289711,706527188,2846385770#notes:Upvp9 MW Range
+dimwishlist:item=1835747805&perks=1926090092,1087426260,706527188,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=1835747805&perks=1926090095,3142289711,957782887,2846385770#notes:Upvp8.5 MW Range
+dimwishlist:item=1835747805&perks=1926090095,3230963543,706527188,1546637391#notes:Upvp8.5 MW Range
+dimwishlist:item=1835747805&perks=1926090095,1087426260,706527188,2848615171#notes:Upve8.5 MW Reload
+dimwishlist:item=1835747805&perks=1926090095,2420895100,706527188,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=1835747805&perks=1926090094,3142289711,706527188,1546637391#notes:Upvp8.5 MW Range
+dimwishlist:item=1835747805&perks=1926090094,3177308360,706527188,2846385770#notes:Upvp8.5 MW Range
+dimwishlist:item=1835747805&perks=1926090094,1087426260,1820235745,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=1835747805&perks=1926090094,1431678320,706527188,2848615171#notes:Upve8.5 MW Reload
+dimwishlist:item=1835747805&perks=1926090093,3230963543,706527188,2846385770#notes:Upvp8.5 MW Range
+dimwishlist:item=1835747805&perks=1926090092,1431678320,706527188,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=1835747805&perks=1926090095,3142289711,706527188,3523296417#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090095,3230963543,957782887,2846385770#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090095,3177308360,706527188,1546637391#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090095,1087426260,706527188,2846385770#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090095,1087426260,1820235745,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=1926090095,1431678320,706527188,2846385770#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090095,1431678320,706527188,2848615171#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=1926090095,2420895100,706527188,2846385770#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090095,706527188,2846385770#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090094,3142289711,706527188,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=1926090094,3142289711,957782887,2846385770#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090094,3230963543,706527188,1546637391#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090094,3230963543,706527188,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=1926090094,3177308360,706527188,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=1926090094,1087426260,706527188,1546637391#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=1926090094,1431678320,1820235745,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=1926090094,2420895100,706527188,2848615171#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=1926090094,706527188,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=1926090093,3142289711,706527188,1546637391#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090093,3177308360,706527188,2846385770#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090093,1087426260,706527188,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=1926090092,3142289711,706527188,2846385770#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1926090092,1087426260,706527188,2848615171#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=1926090092,2420895100,706527188,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1835747805&perks=3142289711,706527188,2846385770#notes:Upvp8 MW Range
+dimwishlist:item=1835747805&perks=1087426260,706527188,3523296417#notes:Upve8 MW Reload
+
+
+//Negative Space - U
+//=================PvE=================
+//Barrel
+//2.5:3666208348:Jagged Edge
+//1.5:2827049491:Honed Edge
+//1.0:938542991:Tempered Edge
+//Magazine
+//1.5:2349202967:Heavy Guard
+//1.0:3625355092:Burst Guard
+//0.5:599007201:Enduring Guard
+//Perk 1
+//3.0:1749209109:Relentless Strikes
+//1.5:2590710093:Tireless Blade
+//Perk 2
+//3.0:3913600130:Whirlwind Blade
+//2.0:3708227201:Surrounded
+//1.0:1683379515:Disruption Break
+//MW Impact
+//=================PvP=================
+//Barrel
+//2.5:3666208348:Jagged Edge
+//1.5:2827049491:Honed Edge
+//1.0:938542991:Tempered Edge
+//Magazine
+//1.5:2349202967:Heavy Guard
+//1.0:3625355092:Burst Guard
+//0.5:599007201:Enduring Guard
+//Perk 1
+//3.0:2590710093:Tireless Blade
+//1.5:1749209109:Relentless Strikes
+//Perk 2
+//3.0:3016987351:Counterattack
+//1.5:3708227201:Surrounded
+//MW Impact
+//=================Wishlist=================
+dimwishlist:item=3629968765&perks=3666208348,2349202967,2590710093,3016987351#notes:Upvp10 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,2349202967,1749209109,3913600130#notes:Upve10 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,3625355092,2590710093,3016987351#notes:Upvp9.5 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,3625355092,1749209109,3913600130#notes:Upve9.5 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,2349202967,1749209109,3708227201#notes:Upve9 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,599007201,2590710093,3016987351#notes:Upvp9 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,599007201,1749209109,3913600130#notes:Upve9 MW Impact
+dimwishlist:item=3629968765&perks=2827049491,2349202967,2590710093,3016987351#notes:Upvp9 MW Impact
+dimwishlist:item=3629968765&perks=2827049491,2349202967,1749209109,3913600130#notes:Upve9 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,2349202967,2590710093,3708227201#notes:Upvp8.5 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,2349202967,2590710093,3913600130#notes:Upve8.5 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,2349202967,1749209109,3016987351#notes:Upvp8.5 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,3625355092,1749209109,3708227201#notes:Upve8.5 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,2590710093,3016987351#notes:Upvp8.5 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,1749209109,3913600130#notes:Upve8.5 MW Impact
+dimwishlist:item=3629968765&perks=2827049491,3625355092,2590710093,3016987351#notes:Upvp8.5 MW Impact
+dimwishlist:item=3629968765&perks=2827049491,3625355092,1749209109,3913600130#notes:Upve8.5 MW Impact
+dimwishlist:item=3629968765&perks=938542991,2349202967,2590710093,3016987351#notes:Upvp8.5 MW Impact
+dimwishlist:item=3629968765&perks=938542991,2349202967,1749209109,3913600130#notes:Upve8.5 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,2349202967,1749209109,1683379515#notes:Upve8 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,3625355092,2590710093,3708227201#notes:Upvp8 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,3625355092,2590710093,3913600130#notes:Upve8 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,3625355092,1749209109,3016987351#notes:Upvp8 MW Impact
+dimwishlist:item=3629968765&perks=3666208348,599007201,1749209109,3708227201#notes:Upve8 MW Impact
+dimwishlist:item=3629968765&perks=2827049491,2349202967,1749209109,3708227201#notes:Upve8 MW Impact
+dimwishlist:item=3629968765&perks=2827049491,599007201,2590710093,3016987351#notes:Upvp8 MW Impact
+dimwishlist:item=3629968765&perks=2827049491,599007201,1749209109,3913600130#notes:Upve8 MW Impact
+dimwishlist:item=3629968765&perks=938542991,3625355092,2590710093,3016987351#notes:Upvp8 MW Impact
+dimwishlist:item=3629968765&perks=938542991,3625355092,1749209109,3913600130#notes:Upve8 MW Impact
+
+
+//Temptation's Hook - U
+//=================PvE=================
+//Barrel
+//2.5:3666208348:Jagged Edge
+//1.5:2827049491:Honed Edge
+//1.0:938542991:Tempered Edge
+//Magazine
+//1.5:2349202967:Heavy Guard
+//1.0:3625355092:Burst Guard
+//0.5:599007201:Enduring Guard
+//Perk 1
+//3.0:1749209109:Relentless Strikes
+//1.5:2590710093:Tireless Blade
+//Perk 2
+//3.0:1546637391:Vorpal Weapon
+//2.0:3708227201:Surrounded
+//1.0:3913600130:Whirlwind Blade
+//MW Impact
+//=================PvP=================
+//Barrel
+//2.5:3666208348:Jagged Edge
+//1.5:2827049491:Honed Edge
+//1.0:938542991:Tempered Edge
+//Magazine
+//1.5:2349202967:Heavy Guard
+//1.0:3625355092:Burst Guard
+//0.5:599007201:Enduring Guard
+//Perk 1
+//3.0:2590710093:Tireless Blade
+//1.5:1749209109:Relentless Strikes
+//Perk 2
+//3.0:1546637391:Vorpal Weapon
+//1.5:1685431615:En Garde
+//MW Impact
+//=================Wishlist=================
+dimwishlist:item=35794111&perks=3666208348,2349202967,2590710093,1546637391#notes:Upve8.5, Upvp10 MW Impact
+dimwishlist:item=35794111&perks=3666208348,2349202967,1749209109,1546637391#notes:Upve10, Upvp8.5 MW Impact
+dimwishlist:item=35794111&perks=3666208348,3625355092,2590710093,1546637391#notes:Upve8, Upvp9.5 MW Impact
+dimwishlist:item=35794111&perks=3666208348,3625355092,1749209109,1546637391#notes:Upve9.5, Upvp8 MW Impact
+dimwishlist:item=35794111&perks=3666208348,2349202967,1749209109,3708227201#notes:Upve9 MW Impact
+dimwishlist:item=35794111&perks=3666208348,599007201,2590710093,1546637391#notes:Upvp9 MW Impact
+dimwishlist:item=35794111&perks=3666208348,599007201,1749209109,1546637391#notes:Upve9 MW Impact
+dimwishlist:item=35794111&perks=2827049491,2349202967,2590710093,1546637391#notes:Upvp9 MW Impact
+dimwishlist:item=35794111&perks=2827049491,2349202967,1749209109,1546637391#notes:Upve9 MW Impact
+dimwishlist:item=35794111&perks=3666208348,2349202967,2590710093,1685431615#notes:Upvp8.5 MW Impact
+dimwishlist:item=35794111&perks=3666208348,3625355092,1749209109,3708227201#notes:Upve8.5 MW Impact
+dimwishlist:item=35794111&perks=3666208348,2590710093,1546637391#notes:Upvp8.5 MW Impact
+dimwishlist:item=35794111&perks=3666208348,1749209109,1546637391#notes:Upve8.5 MW Impact
+dimwishlist:item=35794111&perks=2827049491,3625355092,2590710093,1546637391#notes:Upvp8.5 MW Impact
+dimwishlist:item=35794111&perks=2827049491,3625355092,1749209109,1546637391#notes:Upve8.5 MW Impact
+dimwishlist:item=35794111&perks=938542991,2349202967,2590710093,1546637391#notes:Upvp8.5 MW Impact
+dimwishlist:item=35794111&perks=938542991,2349202967,1749209109,1546637391#notes:Upve8.5 MW Impact
+dimwishlist:item=35794111&perks=3666208348,2349202967,1749209109,3913600130#notes:Upve8 MW Impact
+dimwishlist:item=35794111&perks=3666208348,3625355092,2590710093,1685431615#notes:Upvp8 MW Impact
+dimwishlist:item=35794111&perks=3666208348,599007201,1749209109,3708227201#notes:Upve8 MW Impact
+dimwishlist:item=35794111&perks=2827049491,2349202967,1749209109,3708227201#notes:Upve8 MW Impact
+dimwishlist:item=35794111&perks=2827049491,599007201,2590710093,1546637391#notes:Upvp8 MW Impact
+dimwishlist:item=35794111&perks=2827049491,599007201,1749209109,1546637391#notes:Upve8 MW Impact
+dimwishlist:item=35794111&perks=938542991,3625355092,2590710093,1546637391#notes:Upvp8 MW Impact
+dimwishlist:item=35794111&perks=938542991,3625355092,1749209109,1546637391#notes:Upve8 MW Impact
+
+
+//Truthteller - U
+//=================PvE=================
+//Barrel
+//1.5:3525010810:Quick Launch
+//1.0:3798852852:Smart Drift Control
+//0.5:1441682018:Linear Compensator
+//Magazine
+//2.5:3301904089:Spike Grenades
+//Perk 1
+//3.0:2869569095:Field Prep
+//2.0:2779035018:Feeding Frenzy
+//1.0:3300816228:Auto-Loading Holster
+//Perk 2
+//3.0:4082225868:Swashbuckler
+//2.0:3523296417:Demolitionist
+//1.0:1683379515:Disruption Break
+//MW Reload
+//=================PvP=================
+//Barrel
+//1.5:3525010810:Quick Launch
+//1.0:3798852852:Smart Drift Control
+//0.5:1441682018:Linear Compensator
+//Magazine
+//2.5:3301904089:Spike Grenades
+//2.0:409831596:Proximity Grenades
+//1.0:2822142346:High-Velocity Rounds
+//Perk 1
+//3.0:3300816228:Auto-Loading Holster
+//1.5:2869569095:Field Prep
+//Perk 2
+//3.0:1683379515:Disruption Break
+//2.0:3523296417:Demolitionist
+//1.0:706527188:Quickdraw
+//MW Handling
+//=================Wishlist=================
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,1683379515#notes:Upvp10 MW Handling
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,4082225868#notes:Upve10 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,1683379515#notes:Upvp9.5 MW Handling
+dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,1683379515#notes:Upvp9.5 MW Handling
+dimwishlist:item=1946491241&perks=3798852852,3301904089,2869569095,4082225868#notes:Upve9.5 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,3523296417#notes:Upvp9 MW Handling
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=1946491241&perks=3798852852,409831596,3300816228,1683379515#notes:Upvp9 MW Handling
+dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,1683379515#notes:Upvp9 MW Handling
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,1683379515#notes:Upve8, Upvp8.5 MWpve Reload, MWpvp Handling
+dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,3523296417#notes:Upvp8.5 MW Handling
+dimwishlist:item=1946491241&perks=3525010810,2822142346,3300816228,1683379515#notes:Upvp8.5 MW Handling
+dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,3523296417#notes:Upvp8.5 MW Handling
+dimwishlist:item=1946491241&perks=3798852852,3301904089,2869569095,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=1946491241&perks=3798852852,3301904089,2779035018,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=1946491241&perks=1441682018,409831596,3300816228,1683379515#notes:Upvp8.5 MW Handling
+dimwishlist:item=1946491241&perks=3301904089,3300816228,1683379515#notes:Upvp8.5 MW Handling
+dimwishlist:item=1946491241&perks=3301904089,2869569095,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,706527188#notes:Upvp8 MW Handling
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,409831596,2869569095,1683379515#notes:Upvp8 MW Handling
+dimwishlist:item=1946491241&perks=3798852852,3301904089,2869569095,1683379515#notes:Upvp8 MW Handling
+dimwishlist:item=1946491241&perks=3798852852,409831596,3300816228,3523296417#notes:Upvp8 MW Handling
+dimwishlist:item=1946491241&perks=3798852852,2822142346,3300816228,1683379515#notes:Upvp8 MW Handling
+dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,3523296417#notes:Upvp8 MW Handling
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2779035018,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=409831596,3300816228,1683379515#notes:Upvp8 MW Handling
+
+
+//Whispering Slab - U
+//=================PvE=================
+//Barrel
+//2.0:852209214:Polymer String
+//1.5:1784898267:Natural String
+//1.0:3768438372:Agile Bowstring
+//Magazine
+//2.0:16392701:Compact Arrow Shaft
+//1.5:3827198035:Straight Fletching
+//1.0:3429800428:Fiberglass Arrow Shaft
+//Perk 1
+//3.0:201365942:Archer's Tempo
+//2.0:706527188:Quickdraw
+//1.0:2450788523:Killing Wind
+//Perk 2
+//3.0:4082225868:Swashbuckler
+//2.0:3523296417:Demolitionist
+//1.0:1546637391:Vorpal Weapon
+//MW Handling
+//=================PvP=================
+//Barrel
+//2.0:2801223209:Elastic String
+//1.5:4067834857:Flexible String
+//1.0:852209214:Polymer String
+//Magazine
+//2.0:3429800428:Fiberglass Arrow Shaft
+//1.5:3827198035:Straight Fletching
+//1.0:3311977193:Helical Fletching
+//Perk 1
+//3.0:201365942:Archer's Tempo
+//2.0:280464955:Firmly Planted
+//1.0:2450788523:Killing Wind
+//Perk 2
+//3.0:47981717:Opening Shot
+//2.0:3108830275:Unrelenting 
+//1.0:1546637391:Vorpal Weapon
+//MW Draw Time
+//=================Wishlist=================
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,47981717#notes:Upvp10 MW Draw Time
+dimwishlist:item=211938782&perks=852209214,16392701,201365942,4082225868#notes:Upve10 MW Handling
+dimwishlist:item=211938782&perks=2801223209,3827198035,201365942,47981717#notes:Upvp9.5 MW Draw Time
+dimwishlist:item=211938782&perks=4067834857,3429800428,201365942,47981717#notes:Upvp9.5 MW Draw Time
+dimwishlist:item=211938782&perks=852209214,3827198035,201365942,4082225868#notes:Upve9.5 MW Handling
+dimwishlist:item=211938782&perks=1784898267,16392701,201365942,4082225868#notes:Upve9.5 MW Handling
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3108830275#notes:Upvp9 MW Draw Time
+dimwishlist:item=211938782&perks=2801223209,3429800428,280464955,47981717#notes:Upvp9 MW Draw Time
+dimwishlist:item=211938782&perks=2801223209,3311977193,201365942,47981717#notes:Upvp9 MW Draw Time
+dimwishlist:item=211938782&perks=4067834857,3827198035,201365942,47981717#notes:Upvp9 MW Draw Time
+dimwishlist:item=211938782&perks=852209214,3429800428,201365942,47981717#notes:Upvp9 MW Draw Time
+dimwishlist:item=211938782&perks=852209214,3429800428,201365942,4082225868#notes:Upve9 MW Handling
+dimwishlist:item=211938782&perks=852209214,16392701,201365942,3523296417#notes:Upve9 MW Handling
+dimwishlist:item=211938782&perks=852209214,16392701,706527188,4082225868#notes:Upve9 MW Handling
+dimwishlist:item=211938782&perks=1784898267,3827198035,201365942,4082225868#notes:Upve9 MW Handling
+dimwishlist:item=211938782&perks=3768438372,16392701,201365942,4082225868#notes:Upve9 MW Handling
+dimwishlist:item=211938782&perks=2801223209,3827198035,201365942,3108830275#notes:Upvp8.5 MW Draw Time
+dimwishlist:item=211938782&perks=2801223209,3827198035,280464955,47981717#notes:Upvp8.5 MW Draw Time
+dimwishlist:item=211938782&perks=4067834857,3429800428,201365942,3108830275#notes:Upvp8.5 MW Draw Time
+dimwishlist:item=211938782&perks=4067834857,3429800428,280464955,47981717#notes:Upvp8.5 MW Draw Time
+dimwishlist:item=211938782&perks=4067834857,3311977193,201365942,47981717#notes:Upvp8.5 MW Draw Time
+dimwishlist:item=211938782&perks=852209214,3827198035,201365942,47981717#notes:Upvp8.5 MW Draw Time
+dimwishlist:item=211938782&perks=852209214,3827198035,201365942,3523296417#notes:Upve8.5 MW Handling
+dimwishlist:item=211938782&perks=852209214,3827198035,706527188,4082225868#notes:Upve8.5 MW Handling
+dimwishlist:item=211938782&perks=1784898267,3429800428,201365942,4082225868#notes:Upve8.5 MW Handling
+dimwishlist:item=211938782&perks=1784898267,16392701,201365942,3523296417#notes:Upve8.5 MW Handling
+dimwishlist:item=211938782&perks=1784898267,16392701,706527188,4082225868#notes:Upve8.5 MW Handling
+dimwishlist:item=211938782&perks=3768438372,3827198035,201365942,4082225868#notes:Upve8.5 MW Handling
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,1546637391#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=2801223209,3429800428,280464955,3108830275#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=2801223209,3429800428,2450788523,47981717#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=2801223209,3311977193,201365942,3108830275#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=2801223209,3311977193,280464955,47981717#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=2801223209,16392701,201365942,47981717#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=2801223209,16392701,201365942,4082225868#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=2801223209,201365942,47981717#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=4067834857,3827198035,201365942,3108830275#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=4067834857,3827198035,280464955,47981717#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=4067834857,16392701,201365942,4082225868#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=852209214,3429800428,201365942,3108830275#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=852209214,3429800428,201365942,3523296417#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=852209214,3429800428,280464955,47981717#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=852209214,3429800428,706527188,4082225868#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=852209214,3311977193,201365942,47981717#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=852209214,3311977193,201365942,4082225868#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=852209214,16392701,201365942,1546637391#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=852209214,16392701,2450788523,4082225868#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=852209214,16392701,706527188,3523296417#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=852209214,201365942,4082225868#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=1784898267,3429800428,201365942,47981717#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=1784898267,3827198035,201365942,3523296417#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,4082225868#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=3768438372,3429800428,201365942,47981717#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=3768438372,3429800428,201365942,4082225868#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=3768438372,16392701,201365942,3523296417#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=3768438372,16392701,706527188,4082225868#notes:Upve8 MW Handling
+dimwishlist:item=211938782&perks=3429800428,201365942,47981717#notes:Upvp8 MW Draw Time
+dimwishlist:item=211938782&perks=16392701,201365942,4082225868#notes:Upve8 MW Handling
+
+
+//Widow's Bite - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.5:839105230:Arrowhead Brake
+//1.0:1482024992:Smallbore
+//Magazine
+//2.0:1087426260:Appended Mag
+//1.5:2420895100:Extended Mag
+//1.0:1431678320:Alloy Mag
+//Perk 1
+//3.0:1556840489:Lead from Gold
+//1.5:2779035018:Feeding Frenzy
+//Perk 2
+//3.0:3523296417:Demolitionist
+//2.0:1683379515:Disruption Break
+//1.0:706527188:Quickdraw
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:3250034553:Hammer-Forged Rifling
+//1.5:202670084:Full Bore
+//1.0:1482024992:Smallbore
+//Magazine
+//2.0:3142289711:Accurized Rounds
+//1.5:1431678320:Alloy Mag
+//1.0:106909392:Tactical Mag
+//Perk 1
+//3.0:3161816588:Slideshot
+//1.5:280464955:Firmly Planted
+//Perk 2
+//3.0:706527188:Quickdraw
+//2.0:47981717:Opening Shot
+//1.0:3523296417:Demolitionist
+//MW Range
+//=================Wishlist=================
+dimwishlist:item=1271343896&perks=3250034553,3142289711,3161816588,706527188#notes:Upvp10 MW Range
+dimwishlist:item=1271343896&perks=1840239774,1087426260,1556840489,3523296417#notes:Upve10 MW Reload
+dimwishlist:item=1271343896&perks=3250034553,1431678320,3161816588,706527188#notes:Upvp9.5 MW Range
+dimwishlist:item=1271343896&perks=202670084,3142289711,3161816588,706527188#notes:Upvp9.5 MW Range
+dimwishlist:item=1271343896&perks=1840239774,2420895100,1556840489,3523296417#notes:Upve9.5 MW Reload
+dimwishlist:item=1271343896&perks=839105230,1087426260,1556840489,3523296417#notes:Upve9.5 MW Reload
+dimwishlist:item=1271343896&perks=3250034553,3142289711,3161816588,47981717#notes:Upvp9 MW Range
+dimwishlist:item=1271343896&perks=3250034553,106909392,3161816588,706527188#notes:Upvp9 MW Range
+dimwishlist:item=1271343896&perks=202670084,1431678320,3161816588,706527188#notes:Upvp9 MW Range
+dimwishlist:item=1271343896&perks=1482024992,3142289711,3161816588,706527188#notes:Upvp9 MW Range
+dimwishlist:item=1271343896&perks=1482024992,1087426260,1556840489,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=1271343896&perks=1840239774,1431678320,1556840489,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=1271343896&perks=1840239774,1087426260,1556840489,1683379515#notes:Upve9 MW Reload
+dimwishlist:item=1271343896&perks=839105230,2420895100,1556840489,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=1271343896&perks=3250034553,3142289711,280464955,706527188#notes:Upvp8.5 MW Range
+dimwishlist:item=1271343896&perks=3250034553,1431678320,3161816588,47981717#notes:Upvp8.5 MW Range
+dimwishlist:item=1271343896&perks=202670084,3142289711,3161816588,47981717#notes:Upvp8.5 MW Range
+dimwishlist:item=1271343896&perks=202670084,106909392,3161816588,706527188#notes:Upvp8.5 MW Range
+dimwishlist:item=1271343896&perks=1482024992,1431678320,3161816588,706527188#notes:Upvp8.5 MW Range
+dimwishlist:item=1271343896&perks=1482024992,2420895100,1556840489,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=1271343896&perks=1840239774,1087426260,2779035018,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=1271343896&perks=1840239774,2420895100,1556840489,1683379515#notes:Upve8.5 MW Reload
+dimwishlist:item=1271343896&perks=839105230,1431678320,1556840489,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=1271343896&perks=839105230,1087426260,1556840489,1683379515#notes:Upve8.5 MW Reload
+dimwishlist:item=1271343896&perks=3250034553,3142289711,3161816588,3523296417#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=3250034553,1431678320,280464955,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=3250034553,106909392,3161816588,47981717#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=3250034553,1087426260,3161816588,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=3250034553,1087426260,1556840489,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=3250034553,2420895100,3161816588,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=3250034553,3161816588,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=202670084,3142289711,280464955,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=202670084,1431678320,3161816588,47981717#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=202670084,1087426260,1556840489,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=1482024992,3142289711,3161816588,47981717#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=1482024992,1431678320,1556840489,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=1482024992,106909392,3161816588,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=1482024992,1087426260,1556840489,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=1840239774,3142289711,3161816588,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=1840239774,3142289711,1556840489,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=1840239774,1431678320,1556840489,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=1840239774,106909392,1556840489,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=1840239774,1087426260,1556840489,706527188#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=1840239774,2420895100,2779035018,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=1840239774,1556840489,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=839105230,3142289711,3161816588,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=839105230,1087426260,2779035018,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=839105230,2420895100,1556840489,1683379515#notes:Upve8 MW Reload
+dimwishlist:item=1271343896&perks=3142289711,3161816588,706527188#notes:Upvp8 MW Range
+dimwishlist:item=1271343896&perks=1087426260,1556840489,3523296417#notes:Upve8 MW Reload
 
 
 
