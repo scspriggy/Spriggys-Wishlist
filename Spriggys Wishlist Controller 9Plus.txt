@@ -1,8 +1,8 @@
-title:Spriggys Wishlist Controller v11_2_9Plus
+title:Spriggys Wishlist Controller v11_3_9Plus
 description: This wishlist is created by Spriggy for DIM primarily based off pandapaxxy god rolls.
 //GitHub: https://github.com/scspriggy/Spriggys-Wishlist
 //GitHub Wishlist Maker: https://github.com/scspriggy/SpriggysWishlistMaker/releases
-//Update Notes: Modified Temptation's hook and Falling Guillotine to include swordmaster's guard as per pandapaxxy's changes.
+//Update Notes: Increased Falling Guillotine's Whirlwind Blade rating.
 
 //Key: [Tier]PvE[RollRating]
 //	Tier
@@ -10227,7 +10227,7 @@ dimwishlist:item=2742490609&perks=1840239774,3230963543,2779035018,2848615171#no
 //1.5:2590710093:Tireless Blade
 //Perk 2
 //3.0:3708227201:Surrounded
-//1.5:3913600130:Whirlwind Blade
+//2.9:3913600130:Whirlwind Blade
 //MW Impact
 //=================PvP=================
 //Barrel
@@ -10245,7 +10245,9 @@ dimwishlist:item=2742490609&perks=1840239774,3230963543,2779035018,2848615171#no
 //MW Impact
 //=================Wishlist=================
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3708227201#notes:Upve10 MW Impact
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:Upve9.9 MW Impact
 dimwishlist:item=614426548&perks=3666208348,2349202967,1749209109,3708227201#notes:Upve9.5 MW Impact
+dimwishlist:item=614426548&perks=3666208348,2349202967,1749209109,3913600130#notes:Upve9.4 MW Impact
 dimwishlist:item=614426548&perks=3666208348,3625355092,1749209109,3708227201#notes:Upve9 MW Impact
 dimwishlist:item=614426548&perks=2827049491,269888150,1749209109,3708227201#notes:Upve9 MW Impact
 
