@@ -1,8 +1,8 @@
-title:Spriggys Wishlist v11_5_7Plus
+title:Spriggys Wishlist v11_6_7Plus
 description: This wishlist is created by Spriggy for DIM primarily based off pandapaxxy god rolls.
 //GitHub: https://github.com/scspriggy/Spriggys-Wishlist
 //GitHub Wishlist Maker: https://github.com/scspriggy/SpriggysWishlistMaker/releases
-//Update Notes: Added BrayTech Werewolf and Horror Story rolls
+//Update Notes: Swapped auto-loading for field prep with pve Martyr's Retribution
 
 //Key: [Tier]PvE[RollRating]
 //	Tier
@@ -23973,8 +23973,8 @@ dimwishlist:item=946443267&perks=1687452232,3096702027,1771339417#notes:Upve7 MW
 //2.0:2822142346:High-Velocity Rounds
 //1.5:3492396210:Implosion Rounds
 //Perk 1
-//3.0:2869569095:Field Prep
-//1.5:3300816228:Auto-Loading Holster
+//3.0:3300816228:Auto-Loading Holster
+//1.5:2869569095:Field Prep
 //Perk 2
 //3.0:3523296417:Demolitionist
 //2.0:1556840489:Lead from Gold
@@ -23996,88 +23996,83 @@ dimwishlist:item=946443267&perks=1687452232,3096702027,1771339417#notes:Upve7 MW
 //2.0:2846385770:Rangefinder
 //MW Velocity
 //=================Wishlist=================
-dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,3523296417#notes:Upvp10 MW Velocity
-dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,3523296417#notes:Upve10 MW Reload
-dimwishlist:item=3850168899&perks=1844523823,3492396210,3300816228,3523296417#notes:Upvp9.5 MW Velocity
-dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,3523296417#notes:Upvp9.5 MW Velocity
-dimwishlist:item=3850168899&perks=3525010810,3492396210,2869569095,3523296417#notes:Upve9.5 MW Reload
-dimwishlist:item=3850168899&perks=3798852852,2822142346,2869569095,3523296417#notes:Upve9.5 MW Reload
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,3523296417#notes:Upve8, Upvp10 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,3523296417#notes:Upve10, Upvp8 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=1844523823,3492396210,3300816228,3523296417#notes:Upve7.5, Upvp9.5 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,3523296417#notes:Upve8, Upvp9.5 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3300816228,3523296417#notes:Upve9.5, Upvp7.5 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,3523296417#notes:Upve9.5, Upvp8 MWpve Reload, MWpvp Velocity
 dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,2846385770#notes:Upvp9 MW Velocity
 dimwishlist:item=3850168899&perks=1844523823,2822142346,1631667848,3523296417#notes:Upvp9 MW Velocity
-dimwishlist:item=3850168899&perks=1441682018,3492396210,3300816228,3523296417#notes:Upvp9 MW Velocity
-dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,3523296417#notes:Upvp9 MW Velocity
-dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,1556840489#notes:Upve9 MW Reload
-dimwishlist:item=3850168899&perks=3798852852,3492396210,2869569095,3523296417#notes:Upve9 MW Reload
-dimwishlist:item=3850168899&perks=3809316345,2822142346,2869569095,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3300816228,3523296417#notes:Upve7.5, Upvp9 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,3523296417#notes:Upve8, Upvp9 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,1556840489#notes:Upve9 MW Reload
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3300816228,3523296417#notes:Upve9, Upvp7.5 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=3809316345,2822142346,3300816228,3523296417#notes:Upve9, Upvp8 MWpve Reload, MWpvp Velocity
 dimwishlist:item=3850168899&perks=1844523823,3492396210,3300816228,2846385770#notes:Upvp8.5 MW Velocity
 dimwishlist:item=3850168899&perks=1844523823,3492396210,1631667848,3523296417#notes:Upvp8.5 MW Velocity
 dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,2846385770#notes:Upvp8.5 MW Velocity
 dimwishlist:item=3850168899&perks=1441682018,2822142346,1631667848,3523296417#notes:Upvp8.5 MW Velocity
-dimwishlist:item=3850168899&perks=1478423395,3492396210,3300816228,3523296417#notes:Upvp8.5 MW Velocity
-dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,3523296417#notes:Upve8.5, Upvp8 MWpve Reload, MWpvp Velocity
-dimwishlist:item=3850168899&perks=3525010810,3492396210,2869569095,1556840489#notes:Upve8.5 MW Reload
-dimwishlist:item=3850168899&perks=3798852852,2822142346,2869569095,1556840489#notes:Upve8.5 MW Reload
-dimwishlist:item=3850168899&perks=3809316345,3492396210,2869569095,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=3850168899&perks=1478423395,3492396210,3300816228,3523296417#notes:Upve7.5, Upvp8.5 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3300816228,1556840489#notes:Upve8.5 MW Reload
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,1556840489#notes:Upve8.5 MW Reload
+dimwishlist:item=3850168899&perks=3809316345,3492396210,3300816228,3523296417#notes:Upve8.5, Upvp7.5 MWpve Reload, MWpvp Velocity
 dimwishlist:item=3850168899&perks=1844523823,2822142346,1631667848,2846385770#notes:Upvp8 MW Velocity
-dimwishlist:item=3850168899&perks=1844523823,2822142346,2869569095,3523296417#notes:Upve8, Upvp8 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,2869569095,3523296417#notes:Upvp8 MW Velocity
 dimwishlist:item=3850168899&perks=1844523823,3300816228,3523296417#notes:Upvp8 MW Velocity
-dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,3523296417#notes:Upve8, Upvp7.5 MWpve Reload, MWpvp Velocity
 dimwishlist:item=3850168899&perks=1441682018,3492396210,3300816228,2846385770#notes:Upvp8 MW Velocity
 dimwishlist:item=3850168899&perks=1441682018,3492396210,1631667848,3523296417#notes:Upvp8 MW Velocity
 dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,2846385770#notes:Upvp8 MW Velocity
 dimwishlist:item=3850168899&perks=1478423395,2822142346,1631667848,3523296417#notes:Upvp8 MW Velocity
-dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,3523296417#notes:Upve8, Upvp7 MWpve Reload, MWpvp Velocity
-dimwishlist:item=3850168899&perks=3525010810,3492396210,3300816228,3523296417#notes:Upve8, Upvp7.5 MWpve Reload, MWpvp Velocity
-dimwishlist:item=3850168899&perks=3525010810,2869569095,3523296417#notes:Upve8 MW Reload
-dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,3523296417#notes:Upve8, Upvp8 MWpve Reload, MWpvp Velocity
-dimwishlist:item=3850168899&perks=3798852852,3492396210,2869569095,1556840489#notes:Upve8 MW Reload
-dimwishlist:item=3850168899&perks=3809316345,2822142346,3300816228,3523296417#notes:Upve7.5, Upvp8 MWpve Reload, MWpvp Velocity
-dimwishlist:item=3850168899&perks=3809316345,2822142346,2869569095,1556840489#notes:Upve8 MW Reload
-dimwishlist:item=3850168899&perks=2822142346,3300816228,3523296417#notes:Upvp8 MW Velocity
-dimwishlist:item=3850168899&perks=2822142346,2869569095,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=3850168899&perks=3525010810,3492396210,2869569095,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=3850168899&perks=3525010810,3300816228,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=3850168899&perks=3798852852,2822142346,2869569095,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3300816228,1556840489#notes:Upve8 MW Reload
+dimwishlist:item=3850168899&perks=3809316345,2822142346,3300816228,1556840489#notes:Upve8 MW Reload
+dimwishlist:item=3850168899&perks=2822142346,3300816228,3523296417#notes:Upve8, Upvp8 MWpve Reload, MWpvp Velocity
 dimwishlist:item=3850168899&perks=1844523823,3492396210,1631667848,2846385770#notes:Upvp7.5 MW Velocity
-dimwishlist:item=3850168899&perks=1844523823,3492396210,2869569095,3523296417#notes:Upve7.5, Upvp7.5 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=1844523823,3492396210,2869569095,3523296417#notes:Upvp7.5 MW Velocity
 dimwishlist:item=3850168899&perks=1441682018,2822142346,1631667848,2846385770#notes:Upvp7.5 MW Velocity
-dimwishlist:item=3850168899&perks=1441682018,3492396210,2869569095,3523296417#notes:Upve7.5, Upvp7 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,3523296417#notes:Upvp7.5 MW Velocity
 dimwishlist:item=3850168899&perks=1441682018,3300816228,3523296417#notes:Upvp7.5 MW Velocity
 dimwishlist:item=3850168899&perks=1478423395,3492396210,3300816228,2846385770#notes:Upvp7.5 MW Velocity
 dimwishlist:item=3850168899&perks=1478423395,3492396210,1631667848,3523296417#notes:Upvp7.5 MW Velocity
-dimwishlist:item=3850168899&perks=1478423395,3492396210,2869569095,3523296417#notes:Upve7.5 MW Reload
-dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,1556840489#notes:Upve7.5 MW Reload
-dimwishlist:item=3850168899&perks=3798852852,3492396210,3300816228,3523296417#notes:Upve7.5, Upvp7.5 MWpve Reload, MWpvp Velocity
-dimwishlist:item=3850168899&perks=3798852852,2869569095,3523296417#notes:Upve7.5 MW Reload
-dimwishlist:item=3850168899&perks=3809316345,3492396210,3300816228,3523296417#notes:Upve7, Upvp7.5 MWpve Reload, MWpvp Velocity
-dimwishlist:item=3850168899&perks=3809316345,3492396210,2869569095,1556840489#notes:Upve7.5 MW Reload
-dimwishlist:item=3850168899&perks=3492396210,3300816228,3523296417#notes:Upvp7.5 MW Velocity
-dimwishlist:item=3850168899&perks=3492396210,2869569095,3523296417#notes:Upve7.5 MW Reload
-dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,1556840489#notes:Upvp7 MW Velocity
+dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,1556840489#notes:Upve7.5 MW Reload
+dimwishlist:item=3850168899&perks=3798852852,3492396210,2869569095,3523296417#notes:Upve7.5 MW Reload
+dimwishlist:item=3850168899&perks=3798852852,3300816228,3523296417#notes:Upve7.5 MW Reload
+dimwishlist:item=3850168899&perks=3809316345,2822142346,2869569095,3523296417#notes:Upve7.5 MW Reload
+dimwishlist:item=3850168899&perks=3809316345,3492396210,3300816228,1556840489#notes:Upve7.5 MW Reload
+dimwishlist:item=3850168899&perks=3492396210,3300816228,3523296417#notes:Upve7.5, Upvp7.5 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,1556840489#notes:Upve7, Upvp7 MWpve Reload, MWpvp Velocity
 dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228#notes:Upvp7 MW Velocity
 dimwishlist:item=3850168899&perks=1844523823,2822142346,2869569095,2846385770#notes:Upvp7 MW Velocity
-dimwishlist:item=3850168899&perks=1844523823,2822142346,2869569095,1556840489#notes:Upve7 MW Reload
 dimwishlist:item=3850168899&perks=1844523823,2822142346,3523296417#notes:Upvp7 MW Velocity
 dimwishlist:item=3850168899&perks=1844523823,3300816228,2846385770#notes:Upvp7 MW Velocity
 dimwishlist:item=3850168899&perks=1844523823,1631667848,3523296417#notes:Upvp7 MW Velocity
-dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,1556840489#notes:Upve7 MW Reload
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,1556840489#notes:Upve7 MW Reload
 dimwishlist:item=3850168899&perks=1441682018,3492396210,1631667848,2846385770#notes:Upvp7 MW Velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,2869569095,3523296417#notes:Upvp7 MW Velocity
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,1556840489#notes:Upve7 MW Reload
 dimwishlist:item=3850168899&perks=1478423395,2822142346,1631667848,2846385770#notes:Upvp7 MW Velocity
-dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,1556840489#notes:Upve7 MW Reload
+dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,3523296417#notes:Upvp7 MW Velocity
 dimwishlist:item=3850168899&perks=1478423395,3300816228,3523296417#notes:Upvp7 MW Velocity
-dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,2846385770#notes:Upvp7 MW Velocity
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,2846385770#notes:Upve7, Upvp7 MWpve Reload, MWpvp Velocity
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228#notes:Upve7 MW Reload
 dimwishlist:item=3850168899&perks=3525010810,2822142346,1631667848,3523296417#notes:Upve7, Upvp7 MWpve Reload, MWpvp Velocity
-dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,2846385770#notes:Upve7 MW Reload
-dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095#notes:Upve7 MW Reload
 dimwishlist:item=3850168899&perks=3525010810,2822142346,3523296417#notes:Upve7 MW Reload
-dimwishlist:item=3850168899&perks=3525010810,3492396210,3300816228,1556840489#notes:Upve7 MW Reload
-dimwishlist:item=3850168899&perks=3525010810,2869569095,1556840489#notes:Upve7 MW Reload
+dimwishlist:item=3850168899&perks=3525010810,3492396210,2869569095,1556840489#notes:Upve7 MW Reload
+dimwishlist:item=3850168899&perks=3525010810,3300816228,1556840489#notes:Upve7 MW Reload
 dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,2846385770#notes:Upvp7 MW Velocity
-dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,1556840489#notes:Upve7 MW Reload
 dimwishlist:item=3850168899&perks=3798852852,2822142346,1631667848,3523296417#notes:Upvp7 MW Velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,2869569095,1556840489#notes:Upve7 MW Reload
 dimwishlist:item=3850168899&perks=3809316345,2822142346,3300816228,2846385770#notes:Upvp7 MW Velocity
 dimwishlist:item=3850168899&perks=3809316345,2822142346,1631667848,3523296417#notes:Upvp7 MW Velocity
-dimwishlist:item=3850168899&perks=3809316345,2869569095,3523296417#notes:Upve7 MW Reload
+dimwishlist:item=3850168899&perks=3809316345,3492396210,2869569095,3523296417#notes:Upve7 MW Reload
+dimwishlist:item=3850168899&perks=3809316345,3300816228,3523296417#notes:Upve7 MW Reload
 dimwishlist:item=3850168899&perks=2822142346,3300816228,2846385770#notes:Upvp7 MW Velocity
+dimwishlist:item=3850168899&perks=2822142346,3300816228,1556840489#notes:Upve7 MW Reload
 dimwishlist:item=3850168899&perks=2822142346,1631667848,3523296417#notes:Upvp7 MW Velocity
-dimwishlist:item=3850168899&perks=2822142346,2869569095,1556840489#notes:Upve7 MW Reload
 
 
 //Mos Epoch III - U
