@@ -1,8 +1,8 @@
-title:Spriggys Wishlist v11_6_8Plus
+title:Spriggys Wishlist v11_7_8Plus
 description: This wishlist is created by Spriggy for DIM primarily based off pandapaxxy god rolls.
 //GitHub: https://github.com/scspriggy/Spriggys-Wishlist
 //GitHub Wishlist Maker: https://github.com/scspriggy/SpriggysWishlistMaker/releases
-//Update Notes: Swapped auto-loading for field prep with pve Martyr's Retribution
+//Update Notes: Truthteller improvements
 
 //Key: [Tier]PvE[RollRating]
 //	Tier
@@ -17443,10 +17443,11 @@ dimwishlist:item=35794111&perks=938542991,2349202967,1749209109,1546637391#notes
 //1.0:1441682018:Linear Compensator
 //0.5:3798852852:Smart Drift Control
 //Magazine
+//2.5:3032599245:Blinding Grenades
 //2.5:3301904089:Spike Grenades
 //Perk 1
-//3.0:2869569095:Field Prep
-//2.0:3300816228:Auto-Loading Holster
+//3.0:3300816228:Auto-Loading Holster
+//2.0:2869569095:Field Prep
 //1.0:2779035018:Feeding Frenzy
 //Perk 2
 //3.0:3523296417:Demolitionist
@@ -17471,32 +17472,45 @@ dimwishlist:item=35794111&perks=938542991,2349202967,1749209109,1546637391#notes
 //MW Handling
 //=================Wishlist=================
 dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,1683379515#notes:Upvp10 MW Handling
-dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,3523296417#notes:Upve10 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,3523296417#notes:Upve10, Upvp8 MWpve Reload, MWpvp Handling
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,3523296417#notes:Upve10 MW Reload
 dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,1683379515#notes:Upvp9.5 MW Handling
 dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,1683379515#notes:Upvp9.5 MW Handling
-dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,3523296417#notes:Upve9.5 MW Reload
+dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,3523296417#notes:Upve9.5 MW Reload
+dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,3523296417#notes:Upve9.5 MW Reload
 dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,706527188#notes:Upvp9 MW Handling
-dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,3523296417#notes:Upve9, Upvp8 MWpve Reload, MWpvp Handling
-dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,4082225868#notes:Upve9 MW Reload
-dimwishlist:item=1946491241&perks=3798852852,3301904089,2869569095,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,4082225868#notes:Upve9 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2869569095,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,3523296417#notes:Upve9 MW Reload
 dimwishlist:item=1946491241&perks=3798852852,409831596,3300816228,1683379515#notes:Upvp9 MW Handling
+dimwishlist:item=1946491241&perks=3798852852,3032599245,3300816228,3523296417#notes:Upve9 MW Reload
 dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,1683379515#notes:Upvp9 MW Handling
 dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,1683379515#notes:Upvp8.5 MW Handling
 dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,706527188#notes:Upvp8.5 MW Handling
 dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,706527188#notes:Upvp8.5 MW Handling
-dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,3523296417#notes:Upve8.5 MW Reload
-dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,3523296417#notes:Upve8.5 MW Reload
 dimwishlist:item=1946491241&perks=1441682018,409831596,3300816228,1683379515#notes:Upvp8.5 MW Handling
+dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,4082225868#notes:Upve8.5 MW Reload
+dimwishlist:item=1946491241&perks=1441682018,3032599245,2869569095,3523296417#notes:Upve8.5 MW Reload
 dimwishlist:item=1946491241&perks=3301904089,3300816228,1683379515#notes:Upvp8.5 MW Handling
-dimwishlist:item=1946491241&perks=3301904089,2869569095,3523296417#notes:Upve8.5 MW Reload
-dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=3301904089,3300816228,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=1946491241&perks=3032599245,3300816228,3523296417#notes:Upve8.5 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,2458213969#notes:Upve8 MW Reload
 dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,3523296417#notes:Upve8 MW Reload
-dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,2458213969#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,4082225868#notes:Upve8 MW Reload
 dimwishlist:item=1946491241&perks=3525010810,409831596,2779035018,1683379515#notes:Upvp8 MW Handling
-dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,2458213969#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2779035018,3523296417#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2869569095,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,4082225868#notes:Upve8 MW Reload
 dimwishlist:item=1946491241&perks=3798852852,3301904089,2779035018,1683379515#notes:Upvp8 MW Handling
-dimwishlist:item=1946491241&perks=3798852852,3301904089,2869569095,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=3798852852,3301904089,2869569095,3523296417#notes:Upve8 MW Reload
 dimwishlist:item=1946491241&perks=3798852852,409831596,3300816228,706527188#notes:Upvp8 MW Handling
+dimwishlist:item=1946491241&perks=3798852852,3032599245,3300816228,4082225868#notes:Upve8 MW Reload
+dimwishlist:item=1946491241&perks=3798852852,3032599245,2869569095,3523296417#notes:Upve8 MW Reload
 dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,706527188#notes:Upvp8 MW Handling
 dimwishlist:item=1946491241&perks=409831596,3300816228,1683379515#notes:Upvp8 MW Handling
 
