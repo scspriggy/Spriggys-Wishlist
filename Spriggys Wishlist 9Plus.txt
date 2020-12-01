@@ -1,8 +1,8 @@
-title:Spriggys Wishlist v12_1_9Plus
+title:Spriggys Wishlist v12_2_9Plus
 description: This wishlist is created by Spriggy for DIM primarily based off pandapaxxy god rolls.
 //GitHub: https://github.com/scspriggy/Spriggys-Wishlist
 //GitHub Wishlist Maker: https://github.com/scspriggy/SpriggysWishlistMaker/releases
-//Update Notes: Deep Stone Crypt Raid Weapons Added
+//Update Notes: First In, Last Out tweak
 
 //Key: [Tier]PvE[RollRating]
 //	Tier
@@ -10339,8 +10339,8 @@ dimwishlist:item=3143732432&perks=1482024992,679225683,2779035018,3425386926#not
 //1.5:106909392:Tactical Mag
 //1.0:1087426260:Appended Mag
 //Perk 1
-//2.5:1168162263:Outlaw
-//1.5:3300816228:Auto-Loading Holster
+//2.5:3300816228:Auto-Loading Holster
+//1.5:1168162263:Outlaw
 //Perk 2
 //2.5:1546637391:Vorpal Weapon
 //1.5:3523296417:Demolitionist
@@ -10363,15 +10363,15 @@ dimwishlist:item=3143732432&perks=1482024992,679225683,2779035018,3425386926#not
 //MW Handling
 //=================Wishlist=================
 dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,47981717#notes:Upvp10 MW Handling
-dimwishlist:item=3616586446&perks=1840239774,791862061,1168162263,1546637391#notes:Upve10 MW Reload
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,1546637391#notes:Upve10 MW Reload
 dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,1546637391#notes:Upvp9 MW Handling
 dimwishlist:item=3616586446&perks=1840239774,791862061,1168162263,47981717#notes:Upvp9 MW Handling
-dimwishlist:item=3616586446&perks=1840239774,791862061,1168162263,3523296417#notes:Upve9 MW Reload
-dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=3616586446&perks=1840239774,791862061,1168162263,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,3523296417#notes:Upve9 MW Reload
 dimwishlist:item=3616586446&perks=1840239774,3142289711,3161816588,47981717#notes:Upvp9 MW Handling
-dimwishlist:item=3616586446&perks=1840239774,106909392,1168162263,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,1546637391#notes:Upve9 MW Reload
 dimwishlist:item=3616586446&perks=1482024992,791862061,3161816588,47981717#notes:Upvp9 MW Handling
-dimwishlist:item=3616586446&perks=3250034553,791862061,1168162263,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391#notes:Upve9 MW Reload
 
 
 //The Fool's Remedy - U
