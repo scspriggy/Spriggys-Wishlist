@@ -1,8 +1,8 @@
-title:Spriggys Wishlist Controller v12_0_9Plus
+title:Spriggys Wishlist Controller v12_1_9Plus
 description: This wishlist is created by Spriggy for DIM primarily based off pandapaxxy god rolls.
 //GitHub: https://github.com/scspriggy/Spriggys-Wishlist
 //GitHub Wishlist Maker: https://github.com/scspriggy/SpriggysWishlistMaker/releases
-//Update Notes: Season 12 weapons added
+//Update Notes: Added Deep Stone Crypt weapons
 
 //Key: [Tier]PvE[RollRating]
 //	Tier
@@ -11210,6 +11210,48 @@ dimwishlist:item=532746994&perks=4090651448,791862061,3300816228,4082225868#note
 dimwishlist:item=532746994&perks=1482024992,1087426260,3300816228,4082225868#notes:Upve9 MW Reload
 
 
+//Bequest - U
+//=================PvE=================
+//Barrel
+//2.0:3666208348:Jagged Edge
+//1.5:2827049491:Honed Edge
+//1.0:938542991:Tempered Edge
+//Magazine
+//2.0:269888150:Swordmaster's Guard
+//1.0:3625355092:Burst Guard
+//Perk 1
+//3.0:1749209109:Relentless Strikes
+//2.0:2726471870:Thresh
+//1.0:2590710093:Tireless Blade
+//Perk 2
+//3.0:1685431615:En Garde
+//2.0:3708227201:Surrounded
+//MW Impact
+//=================PvP=================
+//Barrel
+//2.0:3666208348:Jagged Edge
+//1.5:2827049491:Honed Edge
+//1.0:938542991:Tempered Edge
+//Magazine
+//2.0:3625355092:Burst Guard
+//Perk 1
+//3.0:2590710093:Tireless Blade
+//1.5:2726471870:Thresh
+//Perk 2
+//3.0:354401740:Assassin's Blade
+//MW Impact
+//=================Wishlist=================
+dimwishlist:item=3366545721&perks=3666208348,3625355092,2590710093,354401740#notes:Upvp10 MW Impact
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,1685431615#notes:Upve10 MW Impact
+dimwishlist:item=3366545721&perks=2827049491,3625355092,2590710093,354401740#notes:Upvp9.5 MW Impact
+dimwishlist:item=3366545721&perks=2827049491,269888150,1749209109,1685431615#notes:Upve9.5 MW Impact
+dimwishlist:item=3366545721&perks=3666208348,3625355092,1749209109,1685431615#notes:Upve9 MW Impact
+dimwishlist:item=3366545721&perks=3666208348,269888150,2726471870,1685431615#notes:Upve9 MW Impact
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,3708227201#notes:Upve9 MW Impact
+dimwishlist:item=3366545721&perks=938542991,3625355092,2590710093,354401740#notes:Upvp9 MW Impact
+dimwishlist:item=3366545721&perks=938542991,269888150,1749209109,1685431615#notes:Upve9 MW Impact
+
+
 //Biting Winds - U
 //=================PvE=================
 //Barrel
@@ -11352,6 +11394,57 @@ dimwishlist:item=4037745684&perks=1482024992,106909392,3300816228,3523296417#not
 dimwishlist:item=4037745684&perks=1840239774,791862061,280464955,47981717#notes:Upvp9 MW Handling
 dimwishlist:item=4037745684&perks=1840239774,791862061,3400784728,3523296417#notes:Upve9 MW Reload
 dimwishlist:item=4037745684&perks=1840239774,1087426260,3300816228,3523296417#notes:Upve9 MW Reload
+
+
+//Commemoration - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.5:1482024992:Smallbore
+//1.0:839105230:Arrowhead Brake
+//Magazine
+//2.0:106909392:Tactical Mag
+//1.5:1087426260:Appended Mag
+//1.0:2420895100:Extended Mag
+//Perk 1
+//3.0:1523832109:Reconstruction
+//2.0:2779035018:Feeding Frenzy
+//1.0:3436462433:Surplus
+//Perk 2
+//3.0:3425386926:Rampage
+//1.5:2848615171:Dragonfly
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:1482024992:Smallbore
+//1.5:1840239774:Fluted Barrel
+//1.0:1392496348:Polygonal Rifling
+//Magazine
+//2.0:3142289711:Accurized Rounds
+//1.0:106909392:Tactical Mag
+//Perk 1
+//3.0:1359896290:Dynamic Sway Reduction
+//2.0:2387244414:Zen Moment
+//1.0:3436462433:Surplus
+//Perk 2
+//3.0:699525795:Eye of the Storm
+//2.0:1645158859:Under Pressure
+//1.0:3425386926:Rampage
+//MW Stability
+//=================Wishlist=================
+dimwishlist:item=4230965989&perks=1482024992,3142289711,1359896290,699525795#notes:Upvp10 MW Stability
+dimwishlist:item=4230965989&perks=1840239774,106909392,1523832109,3425386926#notes:Upve10 MW Reload
+dimwishlist:item=4230965989&perks=1482024992,106909392,1523832109,3425386926#notes:Upve9.5 MW Reload
+dimwishlist:item=4230965989&perks=1840239774,3142289711,1359896290,699525795#notes:Upvp9.5 MW Stability
+dimwishlist:item=4230965989&perks=1840239774,1087426260,1523832109,3425386926#notes:Upve9.5 MW Reload
+dimwishlist:item=4230965989&perks=1482024992,3142289711,1359896290,1645158859#notes:Upvp9 MW Stability
+dimwishlist:item=4230965989&perks=1482024992,3142289711,2387244414,699525795#notes:Upvp9 MW Stability
+dimwishlist:item=4230965989&perks=1482024992,106909392,1359896290,699525795#notes:Upvp9 MW Stability
+dimwishlist:item=4230965989&perks=1482024992,1087426260,1523832109,3425386926#notes:Upve9 MW Reload
+dimwishlist:item=4230965989&perks=1840239774,106909392,2779035018,3425386926#notes:Upve9 MW Reload
+dimwishlist:item=4230965989&perks=1840239774,2420895100,1523832109,3425386926#notes:Upve9 MW Reload
+dimwishlist:item=4230965989&perks=1392496348,3142289711,1359896290,699525795#notes:Upvp9 MW Stability
+dimwishlist:item=4230965989&perks=839105230,106909392,1523832109,3425386926#notes:Upve9 MW Reload
 
 
 //Coriolis Force - U
@@ -11782,6 +11875,49 @@ dimwishlist:item=2870169846&perks=1840239774,1968497646,1168162263,3523296417#no
 dimwishlist:item=2870169846&perks=4090651448,1087426260,1168162263,3523296417#notes:Upve9 MW Reload
 
 
+//Heritage - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.0:4090651448:Corkscrew Rifling
+//Magazine
+//2.0:791862061:Assault Mag
+//1.5:106909392:Tactical Mag
+//1.0:1087426260:Appended Mag
+//Perk 1
+//3.0:3300816228:Auto-Loading Holster
+//2.0:1523832109:Reconstruction
+//1.0:1168162263:Outlaw
+//Perk 2
+//3.0:469285294:Recombination
+//1.5:2726471870:Thresh
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.0:4090651448:Corkscrew Rifling
+//Magazine
+//2.0:791862061:Assault Mag
+//1.0:106909392:Tactical Mag
+//Perk 1
+//3.0:3161816588:Slideshot
+//Perk 2
+//3.0:957782887:Snapshot Sights
+//2.0:588594999:Moving Target
+//1.0:2450788523:Killing Wind
+//MW Handling
+//=================Wishlist=================
+dimwishlist:item=4248569242&perks=1840239774,791862061,3161816588,957782887#notes:Upvp10 MW Handling
+dimwishlist:item=4248569242&perks=1840239774,791862061,3300816228,469285294#notes:Upve10 MW Reload
+dimwishlist:item=4248569242&perks=1840239774,106909392,3300816228,469285294#notes:Upve9.5 MW Reload
+dimwishlist:item=4248569242&perks=1840239774,791862061,3161816588,588594999#notes:Upvp9 MW Handling
+dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294#notes:Upve9 MW Reload
+dimwishlist:item=4248569242&perks=1840239774,106909392,3161816588,957782887#notes:Upvp9 MW Handling
+dimwishlist:item=4248569242&perks=1840239774,1087426260,3300816228,469285294#notes:Upve9 MW Reload
+dimwishlist:item=4248569242&perks=4090651448,791862061,3161816588,957782887#notes:Upvp9 MW Handling
+dimwishlist:item=4248569242&perks=4090651448,791862061,3300816228,469285294#notes:Upve9 MW Reload
+
+
 //High Albedo - U
 //=================PvE=================
 //Barrel
@@ -11832,6 +11968,57 @@ dimwishlist:item=1197486957&perks=1482024992,1087426260,4071163871,3523296417#no
 dimwishlist:item=1197486957&perks=1840239774,3142289711,4267945040,3523296417#notes:Upvp9 MW Handling
 dimwishlist:item=1197486957&perks=1840239774,106909392,4071163871,3592538738#notes:Upve9 MW Reload
 dimwishlist:item=1197486957&perks=1840239774,2420895100,4071163871,3523296417#notes:Upve9 MW Reload
+
+
+//Posterity - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.0:1482024992:Smallbore
+//Magazine
+//2.0:106909392:Tactical Mag
+//1.5:1087426260:Appended Mag
+//1.0:2420895100:Extended Mag
+//Perk 1
+//3.0:247725512:Rapid Hit
+//2.0:2779035018:Feeding Frenzy
+//1.0:1523832109:Reconstruction
+//0.5:1354429876:Fourth Time's the Charm
+//Perk 2
+//3.0:3425386926:Rampage
+//2.0:3523296417:Demolitionist
+//1.0:4049631843:One for All
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:1482024992:Smallbore
+//1.5:1840239774:Fluted Barrel
+//1.0:4090651448:Corkscrew Rifling
+//Magazine
+//2.0:3142289711:Accurized Rounds
+//1.0:106909392:Tactical Mag
+//Perk 1
+//3.0:3436462433:Surplus
+//2.0:247725512:Rapid Hit
+//1.0:2450788523:Killing Wind
+//Perk 2
+//3.0:47981717:Opening Shot
+//2.0:3523296417:Demolitionist
+//1.0:3425386926:Rampage
+//MW Stability
+//=================Wishlist=================
+dimwishlist:item=3281285075&perks=1482024992,3142289711,3436462433,47981717#notes:Upvp10 MW Stability
+dimwishlist:item=3281285075&perks=1840239774,106909392,247725512,3425386926#notes:Upve10 MW Reload
+dimwishlist:item=3281285075&perks=1840239774,3142289711,3436462433,47981717#notes:Upvp9.5 MW Stability
+dimwishlist:item=3281285075&perks=1840239774,1087426260,247725512,3425386926#notes:Upve9.5 MW Reload
+dimwishlist:item=3281285075&perks=1482024992,3142289711,3436462433,3523296417#notes:Upvp9 MW Stability
+dimwishlist:item=3281285075&perks=1482024992,3142289711,247725512,47981717#notes:Upvp9 MW Stability
+dimwishlist:item=3281285075&perks=1482024992,106909392,3436462433,47981717#notes:Upvp9 MW Stability
+dimwishlist:item=3281285075&perks=1482024992,106909392,247725512,3425386926#notes:Upve9 MW Reload
+dimwishlist:item=3281285075&perks=1840239774,106909392,247725512,3523296417#notes:Upve9 MW Reload
+dimwishlist:item=3281285075&perks=1840239774,106909392,2779035018,3425386926#notes:Upve9 MW Reload
+dimwishlist:item=3281285075&perks=1840239774,2420895100,247725512,3425386926#notes:Upve9 MW Reload
+dimwishlist:item=3281285075&perks=4090651448,3142289711,3436462433,47981717#notes:Upvp9 MW Stability
 
 
 //Royal Chase - U
@@ -12036,6 +12223,46 @@ dimwishlist:item=2220884262&perks=1926090094,1561002382,3161816588,4082225868#no
 dimwishlist:item=2220884262&perks=1926090094,3230963543,1168162263,4082225868#notes:Upve9 MW Reload
 
 
+//Succession - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.0:839105230:Arrowhead Brake
+//Magazine
+//2.0:106909392:Tactical Mag
+//1.0:2420895100:Extended Mag
+//Perk 1
+//3.0:1523832109:Reconstruction
+//1.5:1556840489:Lead from Gold
+//Perk 2
+//3.0:1546637391:Vorpal Weapon
+//2.0:469285294:Recombination
+//1.0:2726471870:Thresh
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//Magazine
+//2.0:3142289711:Accurized Rounds
+//1.0:106909392:Tactical Mag
+//Perk 1
+//3.0:2039302152:Slideways
+//2.0:588594999:Moving Target
+//1.0:2450788523:Killing Wind
+//Perk 2
+//3.0:957782887:Snapshot Sights
+//1.5:1546637391:Vorpal Weapon
+//MW Handling
+//=================Wishlist=================
+dimwishlist:item=2990047042&perks=1840239774,3142289711,2039302152,957782887#notes:Upvp10 MW Handling
+dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391#notes:Upve10 MW Reload
+dimwishlist:item=2990047042&perks=1840239774,3142289711,588594999,957782887#notes:Upvp9 MW Handling
+dimwishlist:item=2990047042&perks=1840239774,106909392,2039302152,957782887#notes:Upvp9 MW Handling
+dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,469285294#notes:Upve9 MW Reload
+dimwishlist:item=2990047042&perks=1840239774,2420895100,1523832109,1546637391#notes:Upve9 MW Reload
+dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,1546637391#notes:Upve9 MW Reload
+
+
 //Subzero Salvo - U
 //=================PvE=================
 //Barrel
@@ -12236,6 +12463,56 @@ dimwishlist:item=1366917989&perks=3525010810,3796465595,2869569095,2284787283#no
 dimwishlist:item=1366917989&perks=3525010810,2822142346,2869569095,1275731761#notes:Upve9 MW Reload
 dimwishlist:item=1366917989&perks=3798852852,1996142143,2869569095,1275731761#notes:Upve9 MW Reload
 dimwishlist:item=1366917989&perks=981914802,3796465595,2869569095,1275731761#notes:Upve9 MW Reload
+
+
+//Trustee - U
+//=================PvE=================
+//Barrel
+//2.0:1840239774:Fluted Barrel
+//1.5:839105230:Arrowhead Brake
+//1.0:4090651448:Corkscrew Rifling
+//Magazine
+//2.0:106909392:Tactical Mag
+//1.5:1087426260:Appended Mag
+//1.0:2420895100:Extended Mag
+//Perk 1
+//3.0:1523832109:Reconstruction
+//2.0:3436462433:Surplus
+//1.0:1168162263:Outlaw
+//Perk 2
+//3.0:2213355989:High-Impact Reserves
+//1.5:3592538738:Wellspring
+//MW Reload
+//=================PvP=================
+//Barrel
+//2.0:1482024992:Smallbore
+//1.5:1392496348:Polygonal Rifling
+//1.0:1840239774:Fluted Barrel
+//Magazine
+//2.0:3142289711:Accurized Rounds
+//1.0:106909392:Tactical Mag
+//Perk 1
+//3.0:2387244414:Zen Moment
+//2.0:3436462433:Surplus
+//1.0:2450788523:Killing Wind
+//Perk 2
+//3.0:699525795:Eye of the Storm
+//2.0:47981717:Opening Shot
+//MW Stability
+//=================Wishlist=================
+dimwishlist:item=1392919471&perks=1482024992,3142289711,2387244414,699525795#notes:Upvp10 MW Stability
+dimwishlist:item=1392919471&perks=1840239774,106909392,1523832109,2213355989#notes:Upve10 MW Reload
+dimwishlist:item=1392919471&perks=1392496348,3142289711,2387244414,699525795#notes:Upvp9.5 MW Stability
+dimwishlist:item=1392919471&perks=1840239774,1087426260,1523832109,2213355989#notes:Upve9.5 MW Reload
+dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,2213355989#notes:Upve9.5 MW Reload
+dimwishlist:item=1392919471&perks=1482024992,3142289711,2387244414,47981717#notes:Upvp9 MW Stability
+dimwishlist:item=1392919471&perks=1482024992,3142289711,3436462433,699525795#notes:Upvp9 MW Stability
+dimwishlist:item=1392919471&perks=1482024992,106909392,2387244414,699525795#notes:Upvp9 MW Stability
+dimwishlist:item=1392919471&perks=1840239774,3142289711,2387244414,699525795#notes:Upvp9 MW Stability
+dimwishlist:item=1392919471&perks=1840239774,106909392,3436462433,2213355989#notes:Upve9 MW Reload
+dimwishlist:item=1392919471&perks=1840239774,2420895100,1523832109,2213355989#notes:Upve9 MW Reload
+dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,2213355989#notes:Upve9 MW Reload
+dimwishlist:item=1392919471&perks=4090651448,106909392,1523832109,2213355989#notes:Upve9 MW Reload
 
 
 //Xenoclast IV - U
